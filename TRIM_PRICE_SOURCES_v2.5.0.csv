@@ -1,0 +1,7 @@
+vehicle_id,브랜드,구성,기준일,트림,기본가(만원),URL,비고
+Tucson,현대,투싼 가솔린,2026-09-01,gas-modern;gas-premium;gas-hpick,2844;3112;3201,https://www.hyundai.com/kr/ko/e/vehicles/tucson/price,일부 트림/옵션만 공식 자료로 확인
+avante,현대,아반떼 가솔린,2026-08-05,gas-modern;gas-premium;gas-inspiration,2398;2771;3152,https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-avante/price,일부 트림/옵션만 공식 자료로 확인
+k5,기아,K5 가솔린,2026-10-01,gas-prestige;gas-noblesse,2892;3244,https://www.kia.com/kr/vehicles/k5/price/private,일부 트림/옵션만 공식 자료로 확인
+k5-hev,기아,K5 하이브리드,2026-10-01,hev-prestige;hev-best;hev-noblesse,3334;3443;3670,https://www.kia.com/kr/vehicles/k5/price/private,일부 트림/옵션만 공식 자료로 확인
+new-grandeur,현대,그랜저 가솔린,2026-07-01,gas-premium;gas-exclusive,4245;4694,https://www.hyundai.com/kr/ko/e/vehicles/the-new-grandeur/price,일부 트림/옵션만 공식 자료로 확인
+new-grandeur-hev,현대,그랜저 하이브리드,2026-07-01,hev-premium;hev-exclusive,4833;5282,https://www.hyundai.com/kr/ko/e/vehicles/the-new-grandeur-hybrid/price,일부 트림/옵션만 공식 자료로 확인

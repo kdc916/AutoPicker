@@ -111,3 +111,17 @@
 스포티지 GAS/HEV, 쏘렌토 GAS/HEV 4개 엔트리를 더해 총 8개 모델의 일부 트림(20개)을 제조사 공식 가격표 기준으로 매핑했습니다. 트림 기본 포함 사양/유료 패키지/선행 옵션/6·7인승을 분리하고 상세에서 필수 기능별 최소 비용 트림을 다시 계산합니다. 바로 관심 목록에 저장해도 선택 트림·옵션·좌석 구성이 유지됩니다.
 
 기아 원문 https://www.kia.com/kr/vehicles/sportage/price 및 https://www.kia.com/kr/vehicles/sorento/price . 검증하지 않은 나머지 69개 차량 옵션은 최종 견적 미확정으로 표시합니다. 가격·세금은 계약 전 재확인해야 합니다.
+
+
+## v2.5.0 (2026-10-08) 공식 옵션 정보 확대
+투싼 가솔린, 디 올 뉴 아반떼 가솔린, K5 2.0 가솔린/HEV, 더 뉴 그랜저 2.5 가솔린/HEV의 트림 15개를 추가했습니다. 기존 검증 8종에서 14종, 기본 트림 77종 탐색은 유지합니다. 제조사 가격표에서 확인한 일부 옵션 패키지와 기본사양만 연결하며, 나머지 63종의 선택옵션은 미확정으로 유지합니다.
+
+- 투싼 프리미엄: 3112 + 파킹어시스트Ⅰ 123 + 스마트센스 40 = 3275만원 (취득세 별도)
+- K5 하이브리드 베스트 셀렉션: 3443 + 모니터링 115 = 3558만원 (취득세 별도)
+- 더 뉴 그랜저 가솔린 프리미엄: 4245 + 파킹어시스트 170 = 4415만원 (취득세 별도)
+- 그랜저 익스클루시브는 기본 서라운드뷰에 옵션가를 중복 가산하지 않습니다.
+- K5의 스마트 트렁크(자동 열림)는 전동 트렁크와 다릅니다.
+- 아반떼 공식 페이지는 가격표 제목의 엔진(1.6)과 기본품목 엔진(2.0) 표기가 상충합니다. 엔진 표기 확정 전까지 해당 파워트레인 상세는 확인이 필요합니다.
+- 공식 가격표: https://www.hyundai.com/kr/ko/e/vehicles/tucson/price / https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-avante/price / https://www.kia.com/kr/vehicles/k5/price/private / https://www.hyundai.com/kr/ko/e/vehicles/the-new-grandeur/price / https://www.hyundai.com/kr/ko/e/vehicles/the-new-grandeur-hybrid/price
+- 가격표 기준일 2026-07-01~2026-10-01, 항목별 상이. 세금/수수료/보조금/할인은 비교용 추정입니다.
+- 검증: node test_core.js, node test_feature_fit.js, python test_v25_ui.py.

@@ -14,5 +14,20 @@ test('Sorento hybrid seven seat 69',()=>{assert.equal(f.fitVerified(car('sorento
 test('Sorento hybrid prestige HUD prereq 178',()=>{assert.equal(f.fitVerified(car('sorento-hev'),{seats:5},['hud'],{trimId:'hev-prestige'}).estimate.optionCost,178);});
 test('Sorento hybrid Noblesse HUD 119',()=>{assert.equal(f.fitVerified(car('sorento-hev'),{seats:5},['hud'],{trimId:'hev-noblesse'}).estimate.optionCost,119);});
 test('Sorento hybrid AWD must not be marked verified',()=>{assert.equal(f.fitVerified(car('sorento-hev'),{seats:5},['awd']).status,'unavailable');});
-test('Eight audited variants',()=>{assert.equal(Object.keys(verified.catalog).length,8);});
+test('Fourteen audited variants',()=>{assert.equal(Object.keys(verified.catalog).length,14);});
+
+test('Tucson surround+cruise 163',()=>{const x=f.fitVerified(car('Tucson'),{seats:5},['surround','cruise','hda']);assert.equal(x.trimId,'gas-premium');assert.equal(x.estimate.optionCost,163);});
+test('Tucson Modern cruise 40',()=>assert.equal(f.fitVerified(car('Tucson'),{seats:5},['cruise'],{trimId:'gas-modern'}).estimate.optionCost,40));
+test('Tucson HDA Modern not confirmed',()=>assert.equal(f.fitVerified(car('Tucson'),{seats:5},['hda'],{trimId:'gas-modern'}).status,'unavailable'));
+test('Avante base cruise free',()=>assert.equal(f.fitVerified(car('avante'),{seats:5},['cruise']).estimate.optionCost,0));
+test('Avante HDA Premium',()=>assert.equal(f.fitVerified(car('avante'),{seats:5},['hda']).trimId,'gas-premium'));
+test('Avante surround not guessed',()=>assert.equal(f.fitVerified(car('avante'),{seats:5},['surround']).status,'unavailable'));
+test('K5 GAS surround Noblesse base',()=>{const x=f.fitVerified(car('k5'),{seats:5},['surround']);assert.equal(x.trimId,'gas-noblesse');assert.equal(x.estimate.optionCost,0);});
+test('K5 HEV monitor Best Selection 115',()=>{const x=f.fitVerified(car('k5-hev'),{seats:5},['surround']);assert.equal(x.trimId,'hev-best');assert.equal(x.estimate.optionCost,115);});
+test('K5 HEV surround+HUD Noblesse HUD109',()=>{const x=f.fitVerified(car('k5-hev'),{seats:5},['surround','hud']);assert.equal(x.trimId,'hev-noblesse');assert.equal(x.estimate.optionCost,109);});
+test('Grandeur GAS Parking 170',()=>assert.equal(f.fitVerified(car('new-grandeur'),{seats:5},['surround']).estimate.optionCost,170));
+test('Grandeur GAS Exclusive parking standard',()=>assert.equal(f.fitVerified(car('new-grandeur'),{seats:5},['surround'],{trimId:'gas-exclusive'}).estimate.optionCost,0));
+test('Grandeur HEV parking 170',()=>assert.equal(f.fitVerified(car('new-grandeur-hev'),{seats:5},['surround']).estimate.optionCost,170));
+test('Grandeur AWD not verified',()=>assert.equal(f.fitVerified(car('new-grandeur'),{seats:5},['awd']).status,'unavailable'));
+
 console.log('ALL PASS',n);
