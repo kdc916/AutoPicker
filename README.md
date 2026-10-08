@@ -125,3 +125,11 @@
 - 공식 가격표: https://www.hyundai.com/kr/ko/e/vehicles/tucson/price / https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-avante/price / https://www.kia.com/kr/vehicles/k5/price/private / https://www.hyundai.com/kr/ko/e/vehicles/the-new-grandeur/price / https://www.hyundai.com/kr/ko/e/vehicles/the-new-grandeur-hybrid/price
 - 가격표 기준일 2026-07-01~2026-10-01, 항목별 상이. 세금/수수료/보조금/할인은 비교용 추정입니다.
 - 검증: node test_core.js, node test_feature_fit.js, python test_v25_ui.py.
+
+
+## v2.6.0 — Official Kia K8 option trims / Sonata 2027 starting prices
+- K8 gasoline 2.5 / HEV 2027 manufacturer-trim subset mapped: Light and Best Selection for each. 16 audited vehicle groups (39 trims) of 77 cars.
+- K8 Best Selection comes standard with surround-view, power tailgate and front ventilated seats; HEV Meridian sound optional 109만 KRW. Gas 2.5 starting 3,731만 and HEV 4,267만.
+- Sonata 2027 new gasoline starting 2,876만, HEV 3,328만, **price only, do not treat option packages as audited**. Tucson HEV / new Avante HEV retain unverified status.
+- Kia: https://www.kia.com/kr/vehicles/k8/price/private ; Hyundai 2027 launch: https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-sonata-the-edge-2027
+- Tests in source ZIP: 14 core, 71 feature, Playwright browser incl 390px mobile. Finance/tax is comparative estimate.

@@ -81,3 +81,4 @@
   function money(value) {return (Math.round(Number(value||0)*10)/10).toLocaleString('ko-KR',{maximumFractionDigits:1})+'만 원';}
   return {purchase,evaluate,rank,sanitizeOptions,money};
 });
+

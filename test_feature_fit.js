@@ -14,7 +14,7 @@ test('Sorento hybrid seven seat 69',()=>{assert.equal(f.fitVerified(car('sorento
 test('Sorento hybrid prestige HUD prereq 178',()=>{assert.equal(f.fitVerified(car('sorento-hev'),{seats:5},['hud'],{trimId:'hev-prestige'}).estimate.optionCost,178);});
 test('Sorento hybrid Noblesse HUD 119',()=>{assert.equal(f.fitVerified(car('sorento-hev'),{seats:5},['hud'],{trimId:'hev-noblesse'}).estimate.optionCost,119);});
 test('Sorento hybrid AWD must not be marked verified',()=>{assert.equal(f.fitVerified(car('sorento-hev'),{seats:5},['awd']).status,'unavailable');});
-test('Fourteen audited variants',()=>{assert.equal(Object.keys(verified.catalog).length,14);});
+test('Sixteen audited variants',()=>{assert.equal(Object.keys(verified.catalog).length,16);});
 
 test('Tucson surround+cruise 163',()=>{const x=f.fitVerified(car('Tucson'),{seats:5},['surround','cruise','hda']);assert.equal(x.trimId,'gas-premium');assert.equal(x.estimate.optionCost,163);});
 test('Tucson Modern cruise 40',()=>assert.equal(f.fitVerified(car('Tucson'),{seats:5},['cruise'],{trimId:'gas-modern'}).estimate.optionCost,40));
@@ -29,5 +29,12 @@ test('Grandeur GAS Parking 170',()=>assert.equal(f.fitVerified(car('new-grandeur
 test('Grandeur GAS Exclusive parking standard',()=>assert.equal(f.fitVerified(car('new-grandeur'),{seats:5},['surround'],{trimId:'gas-exclusive'}).estimate.optionCost,0));
 test('Grandeur HEV parking 170',()=>assert.equal(f.fitVerified(car('new-grandeur-hev'),{seats:5},['surround']).estimate.optionCost,170));
 test('Grandeur AWD not verified',()=>assert.equal(f.fitVerified(car('new-grandeur'),{seats:5},['awd']).status,'unavailable'));
+
+
+test('K8 gas entry price 3731',()=>assert.equal(f.fitVerified(car('k8'),{seats:5},[]).estimate.base,3731));
+test('K8 gas surround uses Best 4172',()=>{const x=f.fitVerified(car('k8'),{seats:5},['surround']);assert.equal(x.trimId,'gas-25-best');assert.equal(x.estimate.base,4172);assert.equal(x.estimate.optionCost,0);});
+test('K8 HEV price 4267 and 360 Best 4420',()=>{assert.equal(f.fitVerified(car('k8-hev'),{seats:5},[]).estimate.base,4267);const x=f.fitVerified(car('k8-hev'),{seats:5},['surround']);assert.equal(x.trimId,'hev-best');assert.equal(x.estimate.base,4420);});
+test('K8 HEV Meridian audio adds 109',()=>{const x=f.fitVerified(car('k8-hev'),{seats:5},['surround','audio']);assert.equal(x.estimate.optionCost,109);});
+test('2027 Sonata is price-only',()=>{assert.equal(car('sonata').price,2876);assert.equal(car('sonata-hev').price,3328);assert.equal(verified.get('sonata'),null);assert.equal(verified.get('sonata-hev'),null);});
 
 console.log('ALL PASS',n);

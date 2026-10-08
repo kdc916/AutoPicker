@@ -1,0 +1,7 @@
+id,price_date,model_year_powertrain,trim,base_price_manwon,scope,official_source
+k8,2026-09-01,2027 GAS 2.5,Noblesse Light,3731,partial verified,https://www.kia.com/kr/vehicles/k8/price/private
+k8,2026-09-01,2027 GAS 2.5,Best Selection,4172,partial verified,https://www.kia.com/kr/vehicles/k8/price/private
+k8-hev,2026-09-01,2027 HEV 1.6T,Noblesse Light,4267,partial verified after tax,https://www.kia.com/kr/vehicles/k8/price/private
+k8-hev,2026-09-01,2027 HEV 1.6T,Best Selection,4420,partial verified after tax,https://www.kia.com/kr/vehicles/k8/price/private
+sonata,2026-10-07,2027 GAS 2.0,Premium,2876,base only options pending,https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-sonata-the-edge-2027
+sonata-hev,2026-10-07,2027 HEV,Premium,3328,base after tax only options pending,https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-sonata-the-edge-2027
