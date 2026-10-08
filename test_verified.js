@@ -1,0 +1,11 @@
+const assert=require('node:assert/strict');
+const {get,trim,normalize,options}=require('./catalog-verified.js');
+assert.equal(get('seltos').priceDate,'2026-10-01');assert.equal(get('carnival').priceDate,'2026-10-01');
+assert.equal(get('seltos').trims.length,3);assert.equal(trim('seltos','prestige').price,2880);
+assert.equal(trim('seltos','signature').price,3145);assert.equal(trim('carnival','p9').price,3686);
+assert.deepEqual(normalize('seltos',{trimId:'trendy',optionIds:['drive']}).optionIds,[]);
+assert.deepEqual(normalize('seltos',{trimId:'trendy',optionIds:['nav','cluster','drive']}).optionIds,['nav','cluster','drive']);
+assert.deepEqual(normalize('seltos',{trimId:'prestige',optionIds:['nav','roof']}).optionIds,['roof']);
+assert.equal(options('seltos',{trimId:'trendy',optionIds:['style','awd']}).reduce((s,o)=>s+o.price,0),307);
+assert.deepEqual(normalize('nonexistent',{optionIds:['foo']}).optionIds,[]);
+console.log('PASS: 11 audited catalog checks');

@@ -4,3 +4,6 @@
 .criteria-summary{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:14px;margin:15px 0;background:#14223b;border:1px solid #334d76;border-radius:13px}.criteria-summary>span{font-size:11px;background:#263955;color:#d7e5ff;border-radius:9px;padding:7px 9px}.criteria-summary>button{margin-left:auto}.criteria-summary .note{width:100%;color:#94aacd;font-size:11px;background:transparent;padding:0}
 
 .wants-grid{display:grid;grid-template-columns:1fr 1fr;gap:4px 8px}.wants-grid .realopt{margin:2px 0;min-height:40px}@media(max-width:740px){.hero-visual-caption{display:none}.wants-grid{grid-template-columns:1fr}}
+
+/* v2.1 audited catalog styles */
+.auditbox{padding:14px 16px;margin:18px 0;border:1px solid #427f8b;border-radius:14px;background:#0c2731;color:#c9eff0;font-size:13px}.auditbox p{margin:7px 0;color:#b3cdda}.auditbox a{color:#92daf2;text-decoration:underline}.sim input[readonly]{opacity:.8;background:#15273a;cursor:not-allowed}
