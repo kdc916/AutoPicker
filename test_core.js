@@ -1,7 +1,7 @@
 const assert=require('node:assert/strict');
 const fs=require('fs');
 const {purchase,rank,evaluate,sanitizeOptions,money}=require('./core.js');
-const cars=JSON.parse(fs.readFileSync('./vehicles.json','utf8'));
+const vm=require('vm');const cx={};vm.createContext(cx);vm.runInContext(fs.readFileSync('./data.js','utf8')+';globalThis.CARS=VEHICLES;',cx);const cars=JSON.parse(JSON.stringify(cx.CARS));
 let n=0;function check(name,fn){fn();console.log('PASS',++n,name)}
 check('unique vehicle IDs',()=>assert.equal(new Set(cars.map(c=>c.id)).size,cars.length));
 check('all official destinations HTTPS',()=>assert.ok(cars.every(c=>c.official.startsWith('https://'))));

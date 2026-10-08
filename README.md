@@ -87,3 +87,20 @@
 - ADAS 크루즈/고속도로 주행 보조는 완전 자율주행이 아니며 운전자 개입이 필요합니다.
 - 개인 기본 설정과 관심차는 브라우저 로컬 저장소만 사용합니다. 기본정보는 입력 초기화로 지울 수 있습니다.
 - `bundle.py` 재실행 시 `feature-fit.js` 포함 단독 실행 HTML을 생성합니다. 신규 테스트: `test_feature_fit.js`, `test_profile_ui.py`.
+
+
+## v2.3.0: 제조사 옵션 패키지 가격 연결 (2026-10-08)
+
+필수 옵션 체크를 실제 트림 기본품목·선택패키지·패키지가격에 연결해 상세 견적에 자동 반영합니다.
+
+- 싼타페 Hybrid 2WD: 2026-10-01 현대 공식 가격표, 익스클루시브 4,022만원, 파킹 어시스트 플러스Ⅰ 119만원, HUD 59만원, 7인승 69만원 추가.
+- 현대 팰리세이드 가솔린 2.5T 9인승: 익스클루시브 4,478만원, 파킹 어시스트 113만원 (2026-10-01 공식 가격표).
+- 셀토스/카니발 공식 트림 패키지 정보는 기존 자료와 통합했습니다.
+- 패키지 선행 조건·중복 선택·별도 인승 가격을 판정하고 옵션 비용과 추정 취득세·총구매가를 동시에 갱신합니다.
+- 매핑 완료: 77개 차종 중 4개 모델의 제한된 트림/파워트레인. 나머지 73개는 공식 옵션 미확정이며 0원으로 확정 표시하지 않습니다.
+
+공식 가격표: https://www.hyundai.com/kr/ko/e/vehicles/santafe-hybrid/price, https://www.hyundai.com/kr/ko/e/vehicles/palisade/price, https://www.kia.com/kr/vehicles/seltos/price/, https://www.kia.com/kr/vehicles/carnival/price/
+
+검사: `node test_core.js`, `node test_feature_fit.js`, `python test_package_ui.py` (Chromium/Playwright 필요).
+
+주의: 표시된 총액은 부가세 제외 기준 취득세·기본 등록비용 가정이 들어간 비교용 예산입니다. 최종 계약견적은 제조사와 확인하세요.
