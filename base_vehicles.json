@@ -1,0 +1,1440 @@
+[
+  {
+    "id": "casper",
+    "brand": "현대",
+    "name": "캐스퍼",
+    "origin": "국산",
+    "body": "경차",
+    "size": 1,
+    "seats": 4,
+    "power": "GAS",
+    "price": 1546,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Casper 2024",
+    "tags": [
+      "city",
+      "affordable"
+    ]
+  },
+  {
+    "id": "venue",
+    "brand": "현대",
+    "name": "베뉴",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 2,
+    "seats": 5,
+    "power": "GAS",
+    "price": 1994,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Venue 2025",
+    "tags": [
+      "city",
+      "affordable"
+    ]
+  },
+  {
+    "id": "avante",
+    "brand": "현대",
+    "name": "디 올 뉴 아반떼",
+    "origin": "국산",
+    "body": "세단",
+    "size": 2,
+    "seats": 5,
+    "power": "GAS",
+    "price": 2398,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-avante/price",
+    "imageQuery": "Hyundai Elantra 2026",
+    "tags": [
+      "affordable",
+      "city",
+      "beginner"
+    ]
+  },
+  {
+    "id": "avante-hev",
+    "brand": "현대",
+    "name": "디 올 뉴 아반떼 하이브리드",
+    "origin": "국산",
+    "body": "세단",
+    "size": 2,
+    "seats": 5,
+    "power": "HEV",
+    "price": 3042,
+    "status": "estimate",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Elantra 2026",
+    "tags": [
+      "economy",
+      "city"
+    ]
+  },
+  {
+    "id": "sonata",
+    "brand": "현대",
+    "name": "2027 쏘나타 디 엣지",
+    "origin": "국산",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 2876,
+    "status": "official",
+    "official": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-sonata-the-edge-2027",
+    "imageQuery": "Hyundai Sonata 2025",
+    "tags": [
+      "comfort",
+      "family"
+    ]
+  },
+  {
+    "id": "sonata-hev",
+    "brand": "현대",
+    "name": "2027 쏘나타 디 엣지 하이브리드",
+    "origin": "국산",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "HEV",
+    "price": 3328,
+    "status": "official",
+    "official": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-sonata-the-edge-2027",
+    "imageQuery": "Hyundai Sonata 2025",
+    "tags": [
+      "economy",
+      "comfort"
+    ]
+  },
+  {
+    "id": "new-grandeur",
+    "brand": "현대",
+    "name": "더 뉴 그랜저",
+    "origin": "국산",
+    "body": "세단",
+    "size": 4,
+    "seats": 5,
+    "power": "GAS",
+    "price": 4245,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/vehicles/the-new-grandeur/price",
+    "imageQuery": "Hyundai Grandeur GN7",
+    "tags": [
+      "comfort",
+      "tech"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/00%20Hyundai%20Grandeur%20%28GN7%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:00_Hyundai_Grandeur_(GN7).jpg"
+  },
+  {
+    "id": "new-grandeur-hev",
+    "brand": "현대",
+    "name": "더 뉴 그랜저 하이브리드",
+    "origin": "국산",
+    "body": "세단",
+    "size": 4,
+    "seats": 5,
+    "power": "HEV",
+    "price": 4833,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/vehicles/the-new-grandeur-hybrid/price",
+    "imageQuery": "Hyundai Grandeur GN7",
+    "tags": [
+      "comfort",
+      "economy"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/00%20Hyundai%20Grandeur%20%28GN7%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:00_Hyundai_Grandeur_(GN7).jpg"
+  },
+  {
+    "id": "kona",
+    "brand": "현대",
+    "name": "코나",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 2,
+    "seats": 5,
+    "power": "GAS",
+    "price": 2393,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Kona SX2",
+    "tags": [
+      "city",
+      "beginner"
+    ]
+  },
+  {
+    "id": "kona-hev",
+    "brand": "현대",
+    "name": "코나 하이브리드",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 2,
+    "seats": 5,
+    "power": "HEV",
+    "price": 2938,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Kona SX2",
+    "tags": [
+      "economy",
+      "city"
+    ]
+  },
+  {
+    "id": "kona-ev",
+    "brand": "현대",
+    "name": "코나 일렉트릭",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 2,
+    "seats": 5,
+    "power": "EV",
+    "price": 4152,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Kona Electric 2024",
+    "tags": [
+      "economy",
+      "city"
+    ]
+  },
+  {
+    "id": "sonata-n",
+    "brand": "현대",
+    "name": "아반떼 N",
+    "origin": "국산",
+    "body": "세단",
+    "size": 2,
+    "seats": 5,
+    "power": "GAS",
+    "price": 3356,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Elantra N 2024",
+    "tags": [
+      "performance"
+    ]
+  },
+  {
+    "id": "Tucson",
+    "brand": "현대",
+    "name": "투싼",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 2844,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/vehicles/tucson/price",
+    "imageQuery": "Hyundai Tucson 2025",
+    "tags": [
+      "family",
+      "cargo"
+    ]
+  },
+  {
+    "id": "Tucson-hev",
+    "brand": "현대",
+    "name": "투싼 하이브리드",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "HEV",
+    "price": 3318,
+    "status": "estimate",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Tucson 2025",
+    "tags": [
+      "economy",
+      "family"
+    ]
+  },
+  {
+    "id": "santafe",
+    "brand": "현대",
+    "name": "싼타페",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 4,
+    "seats": 7,
+    "power": "GAS",
+    "price": 3657,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Santa Fe MX5",
+    "tags": [
+      "cargo",
+      "family",
+      "thirdrow"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hyundai%20Santa%20Fe%202.5T%20Calligraphy%20MX5%20Creamy%20White%20Pearl%20%285%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Hyundai_Santa_Fe_2.5T_Calligraphy_MX5_Creamy_White_Pearl_(5).jpg"
+  },
+  {
+    "id": "santafe-hev",
+    "brand": "현대",
+    "name": "싼타페 하이브리드",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 4,
+    "seats": 7,
+    "power": "HEV",
+    "price": 4022,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/vehicles/santafe-hybrid/price",
+    "imageQuery": "Hyundai Santa Fe MX5",
+    "tags": [
+      "cargo",
+      "economy",
+      "family",
+      "thirdrow"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hyundai%20Santa%20Fe%202.5T%20Calligraphy%20MX5%20Creamy%20White%20Pearl%20%285%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Hyundai_Santa_Fe_2.5T_Calligraphy_MX5_Creamy_White_Pearl_(5).jpg"
+  },
+  {
+    "id": "palisade",
+    "brand": "현대",
+    "name": "디 올 뉴 팰리세이드",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 4,
+    "seats": 9,
+    "power": "GAS",
+    "price": 4478,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/vehicles/palisade/price",
+    "imageQuery": "Hyundai Palisade LX3 2026",
+    "tags": [
+      "thirdrow",
+      "cargo",
+      "comfort"
+    ]
+  },
+  {
+    "id": "palisade-hev",
+    "brand": "현대",
+    "name": "디 올 뉴 팰리세이드 하이브리드",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 4,
+    "seats": 9,
+    "power": "HEV",
+    "price": 5077,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Palisade LX3 2026",
+    "tags": [
+      "thirdrow",
+      "comfort",
+      "economy"
+    ]
+  },
+  {
+    "id": "ioniq5",
+    "brand": "현대",
+    "name": "아이오닉 5",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 4735,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Ioniq 5 2025",
+    "tags": [
+      "tech",
+      "economy",
+      "cargo"
+    ]
+  },
+  {
+    "id": "ioniq6",
+    "brand": "현대",
+    "name": "더 뉴 아이오닉 6",
+    "origin": "국산",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 4856,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Ioniq 6 facelift 2026",
+    "tags": [
+      "tech",
+      "economy"
+    ]
+  },
+  {
+    "id": "ioniq9",
+    "brand": "현대",
+    "name": "아이오닉 9",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 4,
+    "seats": 7,
+    "power": "EV",
+    "price": 6759,
+    "status": "official",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Ioniq 9 2026",
+    "tags": [
+      "thirdrow",
+      "tech",
+      "comfort"
+    ]
+  },
+  {
+    "id": "staria-hev",
+    "brand": "현대",
+    "name": "더 뉴 스타리아 하이브리드",
+    "origin": "국산",
+    "body": "MPV",
+    "size": 4,
+    "seats": 9,
+    "power": "HEV",
+    "price": 4350,
+    "status": "estimate",
+    "official": "https://www.hyundai.com/kr/ko/e/all-vehicles",
+    "imageQuery": "Hyundai Staria 2025",
+    "tags": [
+      "thirdrow",
+      "cargo",
+      "family"
+    ]
+  },
+  {
+    "id": "morning",
+    "brand": "기아",
+    "name": "모닝",
+    "origin": "국산",
+    "body": "경차",
+    "size": 1,
+    "seats": 5,
+    "power": "GAS",
+    "price": 1400,
+    "status": "estimate",
+    "official": "https://www.kia.com/kr/vehicles/morning/price",
+    "imageQuery": "Kia Picanto 2024",
+    "tags": [
+      "city",
+      "beginner",
+      "affordable"
+    ]
+  },
+  {
+    "id": "ray",
+    "brand": "기아",
+    "name": "레이",
+    "origin": "국산",
+    "body": "경차",
+    "size": 1,
+    "seats": 5,
+    "power": "GAS",
+    "price": 1490,
+    "status": "estimate",
+    "official": "https://www.kia.com/kr/vehicles/ray/price",
+    "imageQuery": "Kia Ray 2024",
+    "tags": [
+      "city",
+      "cargo",
+      "affordable"
+    ]
+  },
+  {
+    "id": "ray-ev",
+    "brand": "기아",
+    "name": "레이 EV (4인승)",
+    "origin": "국산",
+    "body": "경차",
+    "size": 1,
+    "seats": 4,
+    "power": "EV",
+    "price": 2852,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/ray-ev/price",
+    "imageQuery": "Kia Ray EV 2024",
+    "tags": [
+      "city",
+      "economy"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kia%20Ray%20EV%20TAM%20EV%20PE%20Smoke%20Blue%20%283%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kia_Ray_EV_TAM_EV_PE_Smoke_Blue_(3).jpg"
+  },
+  {
+    "id": "seltos",
+    "brand": "기아",
+    "name": "디 올 뉴 셀토스 1.6T",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 2,
+    "seats": 5,
+    "power": "GAS",
+    "price": 2512,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/seltos/price/",
+    "imageQuery": "Kia Seltos 2026",
+    "tags": [
+      "city",
+      "tech",
+      "beginner"
+    ]
+  },
+  {
+    "id": "seltos-hev",
+    "brand": "기아",
+    "name": "디 올 뉴 셀토스 하이브리드",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 2,
+    "seats": 5,
+    "power": "HEV",
+    "price": 3020,
+    "status": "estimate",
+    "official": "https://www.kia.com/kr/vehicles/seltos/price",
+    "imageQuery": "Kia Seltos 2026",
+    "tags": [
+      "city",
+      "economy"
+    ]
+  },
+  {
+    "id": "k5",
+    "brand": "기아",
+    "name": "K5",
+    "origin": "국산",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 2892,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/k5/price/private",
+    "imageQuery": "Kia K5 2025",
+    "tags": [
+      "comfort",
+      "affordable"
+    ]
+  },
+  {
+    "id": "k5-hev",
+    "brand": "기아",
+    "name": "K5 하이브리드",
+    "origin": "국산",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "HEV",
+    "price": 3334,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/k5/price/private",
+    "imageQuery": "Kia K5 2025",
+    "tags": [
+      "economy",
+      "comfort"
+    ]
+  },
+  {
+    "id": "k8",
+    "brand": "기아",
+    "name": "2027 K8 2.5 가솔린",
+    "origin": "국산",
+    "body": "세단",
+    "size": 4,
+    "seats": 5,
+    "power": "GAS",
+    "price": 3731,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/k8/price/private",
+    "imageQuery": "Kia K8 2025",
+    "tags": [
+      "comfort",
+      "tech"
+    ]
+  },
+  {
+    "id": "k8-hev",
+    "brand": "기아",
+    "name": "2027 K8 하이브리드",
+    "origin": "국산",
+    "body": "세단",
+    "size": 4,
+    "seats": 5,
+    "power": "HEV",
+    "price": 4267,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/k8/price/private",
+    "imageQuery": "Kia K8 2025",
+    "tags": [
+      "comfort",
+      "economy"
+    ]
+  },
+  {
+    "id": "sportage",
+    "brand": "기아",
+    "name": "스포티지",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 2944,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/sportage/price",
+    "imageQuery": "Kia Sportage 2025",
+    "tags": [
+      "family",
+      "cargo"
+    ]
+  },
+  {
+    "id": "sportage-hev",
+    "brand": "기아",
+    "name": "스포티지 하이브리드",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "HEV",
+    "price": 3436,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/sportage/price",
+    "imageQuery": "Kia Sportage 2025",
+    "tags": [
+      "economy",
+      "family"
+    ]
+  },
+  {
+    "id": "sorento",
+    "brand": "기아",
+    "name": "쏘렌토 2.5T",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 4,
+    "seats": 7,
+    "power": "GAS",
+    "price": 3641,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/sorento/price",
+    "imageQuery": "Kia Sorento MQ4 facelift",
+    "tags": [
+      "family",
+      "thirdrow",
+      "cargo"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kia%20Sorento%20MQ4%20FL%201.6T%20Hybrid%20Gravity%20Aurora%20Black%20Pearl%20%281%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kia_Sorento_MQ4_FL_1.6T_Hybrid_Gravity_Aurora_Black_Pearl_(1).jpg"
+  },
+  {
+    "id": "sorento-hev",
+    "brand": "기아",
+    "name": "쏘렌토 하이브리드",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 4,
+    "seats": 7,
+    "power": "HEV",
+    "price": 3963,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/sorento/price",
+    "imageQuery": "Kia Sorento MQ4 facelift",
+    "tags": [
+      "family",
+      "economy",
+      "thirdrow"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kia%20Sorento%20MQ4%20FL%201.6T%20Hybrid%20Gravity%20Aurora%20Black%20Pearl%20%281%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kia_Sorento_MQ4_FL_1.6T_Hybrid_Gravity_Aurora_Black_Pearl_(1).jpg"
+  },
+  {
+    "id": "carnival",
+    "brand": "기아",
+    "name": "카니발 3.5",
+    "origin": "국산",
+    "body": "MPV",
+    "size": 4,
+    "seats": 9,
+    "power": "GAS",
+    "price": 3686,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/carnival/price/",
+    "imageQuery": "Kia Carnival KA4 facelift",
+    "tags": [
+      "thirdrow",
+      "cargo",
+      "family"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kia%20Carnival%203.5%20KA4%20PE%20Snow%20White%20Pearl%20%288%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kia_Carnival_3.5_KA4_PE_Snow_White_Pearl_(8).jpg"
+  },
+  {
+    "id": "carnival-hev",
+    "brand": "기아",
+    "name": "카니발 하이브리드",
+    "origin": "국산",
+    "body": "MPV",
+    "size": 4,
+    "seats": 9,
+    "power": "HEV",
+    "price": 4141,
+    "status": "estimated_from_official",
+    "official": "https://www.kia.com/kr/vehicles/carnival/price",
+    "imageQuery": "Kia Carnival KA4 facelift",
+    "tags": [
+      "thirdrow",
+      "cargo",
+      "economy"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kia%20Carnival%203.5%20KA4%20PE%20Snow%20White%20Pearl%20%288%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kia_Carnival_3.5_KA4_PE_Snow_White_Pearl_(8).jpg"
+  },
+  {
+    "id": "EV3",
+    "brand": "기아",
+    "name": "EV3",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 2,
+    "seats": 5,
+    "power": "EV",
+    "price": 3995,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/ev3/price",
+    "imageQuery": "Kia EV3 2025",
+    "tags": [
+      "economy",
+      "city",
+      "tech"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kia%20EV3%20%282025%29%20%2854810638023%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kia_EV3_(2025)_(54810638023).jpg"
+  },
+  {
+    "id": "EV4",
+    "brand": "기아",
+    "name": "EV4",
+    "origin": "국산",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 4042,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/ev4/price",
+    "imageQuery": "Kia EV4 2025",
+    "tags": [
+      "tech",
+      "economy"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kia%20EV4%20Sedan%20CT1%202025-04-11%20%2801%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kia_EV4_Sedan_CT1_2025-04-11_(01).jpg"
+  },
+  {
+    "id": "EV5",
+    "brand": "기아",
+    "name": "EV5",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 4155,
+    "status": "official",
+    "official": "https://www.kia.com/kr/vehicles/ev5/price",
+    "imageQuery": "Kia EV5 2025",
+    "tags": [
+      "cargo",
+      "economy"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kia%20EV5%2001%20China%202025-03-25.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Kia_EV5_01_China_2025-03-25.jpg"
+  },
+  {
+    "id": "EV6",
+    "brand": "기아",
+    "name": "EV6",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 5260,
+    "status": "estimate",
+    "official": "https://www.kia.com/kr/vehicles/ev6/price",
+    "imageQuery": "Kia EV6 2025",
+    "tags": [
+      "performance",
+      "tech"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/KIA%20EV6%20%28Fully%20Charged%202022%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:KIA_EV6_(Fully_Charged_2022).jpg"
+  },
+  {
+    "id": "EV9",
+    "brand": "기아",
+    "name": "EV9",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 4,
+    "seats": 7,
+    "power": "EV",
+    "price": 6900,
+    "status": "estimate",
+    "official": "https://www.kia.com/kr/vehicles/ev9/price",
+    "imageQuery": "Kia EV9 2025",
+    "tags": [
+      "thirdrow",
+      "tech",
+      "cargo"
+    ]
+  },
+  {
+    "id": "G70",
+    "brand": "제네시스",
+    "name": "G70",
+    "origin": "국산",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 4500,
+    "status": "official",
+    "official": "https://www.genesis.com/kr/ko/models/g70",
+    "imageQuery": "Genesis G70 2025",
+    "tags": [
+      "performance",
+      "comfort"
+    ]
+  },
+  {
+    "id": "G80",
+    "brand": "제네시스",
+    "name": "G80",
+    "origin": "국산",
+    "body": "세단",
+    "size": 4,
+    "seats": 5,
+    "power": "GAS",
+    "price": 6063,
+    "status": "official",
+    "official": "https://www.genesis.com/kr/ko/models/g80",
+    "imageQuery": "Genesis G80 2025",
+    "tags": [
+      "comfort",
+      "tech"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Genesis%20G80%20RG3%20PE%20Savile%20Silver%20%281%29.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Genesis_G80_RG3_PE_Savile_Silver_(1).jpg"
+  },
+  {
+    "id": "G90",
+    "brand": "제네시스",
+    "name": "G90",
+    "origin": "국산",
+    "body": "세단",
+    "size": 4,
+    "seats": 5,
+    "power": "GAS",
+    "price": 9748,
+    "status": "official",
+    "official": "https://www.genesis.com/kr/ko/models/g90",
+    "imageQuery": "Genesis G90 2025",
+    "tags": [
+      "comfort",
+      "tech"
+    ]
+  },
+  {
+    "id": "GV70",
+    "brand": "제네시스",
+    "name": "GV70",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 5473,
+    "status": "official",
+    "official": "https://www.genesis.com/kr/ko/models/gv70",
+    "imageQuery": "Genesis GV70 2025",
+    "tags": [
+      "comfort",
+      "tech"
+    ]
+  },
+  {
+    "id": "GV80",
+    "brand": "제네시스",
+    "name": "GV80",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 4,
+    "seats": 7,
+    "power": "GAS",
+    "price": 6985,
+    "status": "official",
+    "official": "https://www.genesis.com/kr/ko/models/gv80",
+    "imageQuery": "Genesis GV80 2025",
+    "tags": [
+      "comfort",
+      "thirdrow"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Genesis%20GV80%20IAA%202021%201X7A0165.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:Genesis_GV80_IAA_2021_1X7A0165.jpg"
+  },
+  {
+    "id": "GV60",
+    "brand": "제네시스",
+    "name": "GV60",
+    "origin": "국산",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 6828,
+    "status": "official",
+    "official": "https://www.genesis.com/kr/ko/models/gv60",
+    "imageQuery": "Genesis GV60 2025",
+    "tags": [
+      "tech",
+      "performance"
+    ]
+  },
+  {
+    "id": "model3",
+    "brand": "테슬라",
+    "name": "모델 3",
+    "origin": "수입",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 5300,
+    "status": "estimate",
+    "official": "https://www.tesla.com/ko_kr/model3",
+    "imageQuery": "Tesla Model 3 Highland 2024",
+    "tags": [
+      "economy",
+      "tech"
+    ]
+  },
+  {
+    "id": "modely",
+    "brand": "테슬라",
+    "name": "모델 Y",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 5300,
+    "status": "estimate",
+    "official": "https://www.tesla.com/ko_kr/modely",
+    "imageQuery": "Tesla Model Y Juniper 2025",
+    "tags": [
+      "tech",
+      "economy",
+      "cargo"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2025%20Tesla%20Model%20Y%20Juniper%20Long%20Range%20AWD.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:2025_Tesla_Model_Y_Juniper_Long_Range_AWD.jpg"
+  },
+  {
+    "id": "rav4",
+    "brand": "토요타",
+    "name": "RAV4 하이브리드",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "HEV",
+    "price": 4500,
+    "status": "estimate",
+    "official": "https://www.toyota.co.kr",
+    "imageQuery": "Toyota RAV4 2025",
+    "tags": [
+      "economy",
+      "cargo"
+    ]
+  },
+  {
+    "id": "camry",
+    "brand": "토요타",
+    "name": "캠리 하이브리드",
+    "origin": "수입",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "HEV",
+    "price": 4800,
+    "status": "estimate",
+    "official": "https://www.toyota.co.kr",
+    "imageQuery": "Toyota Camry XV80 2025",
+    "tags": [
+      "comfort",
+      "economy"
+    ]
+  },
+  {
+    "id": "prius",
+    "brand": "토요타",
+    "name": "프리우스",
+    "origin": "수입",
+    "body": "세단",
+    "size": 2,
+    "seats": 5,
+    "power": "HEV",
+    "price": 4000,
+    "status": "estimate",
+    "official": "https://www.toyota.co.kr",
+    "imageQuery": "Toyota Prius 2024",
+    "tags": [
+      "economy",
+      "city"
+    ]
+  },
+  {
+    "id": "es300h",
+    "brand": "렉서스",
+    "name": "ES 300h",
+    "origin": "수입",
+    "body": "세단",
+    "size": 4,
+    "seats": 5,
+    "power": "HEV",
+    "price": 6500,
+    "status": "estimate",
+    "official": "https://www.lexus.co.kr",
+    "imageQuery": "Lexus ES 300h 2025",
+    "tags": [
+      "comfort",
+      "economy"
+    ]
+  },
+  {
+    "id": "nx350h",
+    "brand": "렉서스",
+    "name": "NX 350h",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "HEV",
+    "price": 6900,
+    "status": "estimate",
+    "official": "https://www.lexus.co.kr",
+    "imageQuery": "Lexus NX 350h 2025",
+    "tags": [
+      "comfort",
+      "economy"
+    ]
+  },
+  {
+    "id": "crv",
+    "brand": "혼다",
+    "name": "CR-V 하이브리드",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "HEV",
+    "price": 5600,
+    "status": "estimate",
+    "official": "https://www.hondakorea.co.kr",
+    "imageQuery": "Honda CR-V 2024",
+    "tags": [
+      "family",
+      "economy"
+    ]
+  },
+  {
+    "id": "accord",
+    "brand": "혼다",
+    "name": "어코드 하이브리드",
+    "origin": "수입",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "HEV",
+    "price": 5300,
+    "status": "estimate",
+    "official": "https://www.hondakorea.co.kr",
+    "imageQuery": "Honda Accord Hybrid 2025",
+    "tags": [
+      "economy",
+      "comfort"
+    ]
+  },
+  {
+    "id": "320i",
+    "brand": "BMW",
+    "name": "320i",
+    "origin": "수입",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 5800,
+    "status": "estimate",
+    "official": "https://www.bmw.co.kr",
+    "imageQuery": "BMW 320i G20 2025",
+    "tags": [
+      "performance",
+      "comfort"
+    ]
+  },
+  {
+    "id": "520i",
+    "brand": "BMW",
+    "name": "520i",
+    "origin": "수입",
+    "body": "세단",
+    "size": 4,
+    "seats": 5,
+    "power": "GAS",
+    "price": 7100,
+    "status": "estimate",
+    "official": "https://www.bmw.co.kr",
+    "imageQuery": "BMW 520i G60 2025",
+    "tags": [
+      "comfort",
+      "tech"
+    ]
+  },
+  {
+    "id": "x1",
+    "brand": "BMW",
+    "name": "X1",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 2,
+    "seats": 5,
+    "power": "GAS",
+    "price": 6100,
+    "status": "estimate",
+    "official": "https://www.bmw.co.kr",
+    "imageQuery": "BMW X1 U11 2024",
+    "tags": [
+      "city",
+      "comfort"
+    ]
+  },
+  {
+    "id": "x3",
+    "brand": "BMW",
+    "name": "X3",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 7200,
+    "status": "estimate",
+    "official": "https://www.bmw.co.kr",
+    "imageQuery": "BMW X3 G45 2025",
+    "tags": [
+      "comfort",
+      "cargo"
+    ]
+  },
+  {
+    "id": "x5",
+    "brand": "BMW",
+    "name": "X5",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 4,
+    "seats": 7,
+    "power": "GAS",
+    "price": 12500,
+    "status": "estimate",
+    "official": "https://www.bmw.co.kr",
+    "imageQuery": "BMW X5 G05 2024",
+    "tags": [
+      "comfort",
+      "thirdrow"
+    ]
+  },
+  {
+    "id": "c200",
+    "brand": "벤츠",
+    "name": "C 200",
+    "origin": "수입",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 6500,
+    "status": "estimate",
+    "official": "https://www.mercedes-benz.co.kr",
+    "imageQuery": "Mercedes-Benz C-Class W206 2024",
+    "tags": [
+      "comfort",
+      "tech"
+    ]
+  },
+  {
+    "id": "e200",
+    "brand": "벤츠",
+    "name": "E 200",
+    "origin": "수입",
+    "body": "세단",
+    "size": 4,
+    "seats": 5,
+    "power": "GAS",
+    "price": 7400,
+    "status": "estimate",
+    "official": "https://www.mercedes-benz.co.kr",
+    "imageQuery": "Mercedes-Benz E-Class W214 2025",
+    "tags": [
+      "comfort",
+      "tech"
+    ]
+  },
+  {
+    "id": "glc",
+    "brand": "벤츠",
+    "name": "GLC 300",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 8700,
+    "status": "estimate",
+    "official": "https://www.mercedes-benz.co.kr",
+    "imageQuery": "Mercedes-Benz GLC X254 2024",
+    "tags": [
+      "comfort",
+      "tech"
+    ]
+  },
+  {
+    "id": "gle",
+    "brand": "벤츠",
+    "name": "GLE 450",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 4,
+    "seats": 7,
+    "power": "GAS",
+    "price": 12700,
+    "status": "estimate",
+    "official": "https://www.mercedes-benz.co.kr",
+    "imageQuery": "Mercedes-Benz GLE 2025",
+    "tags": [
+      "comfort",
+      "thirdrow"
+    ]
+  },
+  {
+    "id": "q5",
+    "brand": "아우디",
+    "name": "Q5",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 7000,
+    "status": "estimate",
+    "official": "https://www.audi.co.kr",
+    "imageQuery": "Audi Q5 2025",
+    "tags": [
+      "comfort",
+      "tech"
+    ]
+  },
+  {
+    "id": "a6",
+    "brand": "아우디",
+    "name": "A6",
+    "origin": "수입",
+    "body": "세단",
+    "size": 4,
+    "seats": 5,
+    "power": "GAS",
+    "price": 6900,
+    "status": "estimate",
+    "official": "https://www.audi.co.kr",
+    "imageQuery": "Audi A6 2025",
+    "tags": [
+      "comfort",
+      "tech"
+    ]
+  },
+  {
+    "id": "xc40",
+    "brand": "볼보",
+    "name": "XC40",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 2,
+    "seats": 5,
+    "power": "GAS",
+    "price": 5230,
+    "status": "official",
+    "official": "https://www.volvocars.com/kr/cars/xc40/",
+    "imageQuery": "2026 Volvo XC40 B4 AWD",
+    "tags": [
+      "safety",
+      "city"
+    ]
+  },
+  {
+    "id": "xc60",
+    "brand": "볼보",
+    "name": "XC60",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 6500,
+    "status": "estimate",
+    "official": "https://www.volvocars.com/kr",
+    "imageQuery": "Volvo XC60 2025",
+    "tags": [
+      "safety",
+      "comfort"
+    ]
+  },
+  {
+    "id": "xc90",
+    "brand": "볼보",
+    "name": "XC90",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 4,
+    "seats": 7,
+    "power": "GAS",
+    "price": 8800,
+    "status": "estimate",
+    "official": "https://www.volvocars.com/kr",
+    "imageQuery": "Volvo XC90 2025",
+    "tags": [
+      "safety",
+      "thirdrow"
+    ]
+  },
+  {
+    "id": "id4",
+    "brand": "폭스바겐",
+    "name": "ID.4",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 5400,
+    "status": "estimate",
+    "official": "https://www.volkswagen.co.kr",
+    "imageQuery": "Volkswagen ID.4 2024",
+    "tags": [
+      "economy",
+      "cargo"
+    ]
+  },
+  {
+    "id": "tiguan",
+    "brand": "폭스바겐",
+    "name": "티구안",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "GAS",
+    "price": 5000,
+    "status": "estimate",
+    "official": "https://www.volkswagen.co.kr",
+    "imageQuery": "Volkswagen Tiguan 2025",
+    "tags": [
+      "family",
+      "comfort"
+    ]
+  },
+  {
+    "id": "atto3",
+    "brand": "BYD",
+    "name": "아토 3",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 2,
+    "seats": 5,
+    "power": "EV",
+    "price": 3150,
+    "status": "estimate",
+    "official": "https://www.bydauto.kr",
+    "imageQuery": "BYD Atto 3 2024",
+    "tags": [
+      "city",
+      "economy"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2024%20BYD%20Atto%203%201.jpg",
+    "credit": "https://commons.wikimedia.org/wiki/File:2024_BYD_Atto_3_1.jpg"
+  },
+  {
+    "id": "seal",
+    "brand": "BYD",
+    "name": "씰",
+    "origin": "수입",
+    "body": "세단",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 4000,
+    "status": "estimate",
+    "official": "https://www.bydauto.kr",
+    "imageQuery": "BYD Seal 2024",
+    "tags": [
+      "tech",
+      "performance"
+    ]
+  },
+  {
+    "id": "sealion7",
+    "brand": "BYD",
+    "name": "씨라이언 7",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 4800,
+    "status": "estimate",
+    "official": "https://www.bydauto.kr",
+    "imageQuery": "BYD Sealion 7 2025",
+    "tags": [
+      "tech",
+      "cargo"
+    ]
+  },
+  {
+    "id": "macan",
+    "brand": "포르쉐",
+    "name": "마칸 일렉트릭",
+    "origin": "수입",
+    "body": "SUV",
+    "size": 3,
+    "seats": 5,
+    "power": "EV",
+    "price": 11000,
+    "status": "estimate",
+    "official": "https://www.porsche.com/korea/ko",
+    "imageQuery": "Porsche Macan electric 2025",
+    "tags": [
+      "performance",
+      "tech"
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+﻿id,brand,name,origin,body,power,seats,price,priceProof,status,catalogState,sourceCheckedAt,official
+casper,현대,캐스퍼,국산,경차,GAS,4,1546,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+venue,현대,베뉴,국산,SUV,GAS,5,1994,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+avante,현대,디 올 뉴 아반떼,국산,세단,GAS,5,2398,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.hyundai.com/kr/ko/e/vehicles/the-all-new-avante/price
+avante-hev,현대,디 올 뉴 아반떼 하이브리드,국산,세단,HEV,5,3042,estimate,estimate,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+sonata,현대,2027 쏘나타 디 엣지,국산,세단,GAS,5,2876,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-sonata-the-edge-2027
+sonata-hev,현대,2027 쏘나타 디 엣지 하이브리드,국산,세단,HEV,5,3328,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-company-sonata-the-edge-2027
+new-grandeur,현대,더 뉴 그랜저,국산,세단,GAS,5,4245,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.hyundai.com/kr/ko/e/vehicles/the-new-grandeur/price
+new-grandeur-hev,현대,더 뉴 그랜저 하이브리드,국산,세단,HEV,5,4833,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.hyundai.com/kr/ko/e/vehicles/the-new-grandeur-hybrid/price
+kona,현대,코나,국산,SUV,GAS,5,2393,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+kona-hev,현대,코나 하이브리드,국산,SUV,HEV,5,2938,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+kona-ev,현대,코나 일렉트릭,국산,SUV,EV,5,4152,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+sonata-n,현대,아반떼 N,국산,세단,GAS,5,3356,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+Tucson,현대,투싼,국산,SUV,GAS,5,2844,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.hyundai.com/kr/ko/e/vehicles/tucson/price
+Tucson-hev,현대,투싼 하이브리드,국산,SUV,HEV,5,3318,estimate,estimate,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+santafe,현대,싼타페,국산,SUV,GAS,7,3657,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+santafe-hev,현대,싼타페 하이브리드,국산,SUV,HEV,7,4022,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.hyundai.com/kr/ko/e/vehicles/santafe-hybrid/price
+palisade,현대,디 올 뉴 팰리세이드,국산,SUV,GAS,9,4478,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.hyundai.com/kr/ko/e/vehicles/palisade/price
+palisade-hev,현대,디 올 뉴 팰리세이드 하이브리드,국산,SUV,HEV,9,5077,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+ioniq5,현대,아이오닉 5,국산,SUV,EV,5,4735,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+ioniq6,현대,더 뉴 아이오닉 6,국산,세단,EV,5,4856,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+ioniq9,현대,아이오닉 9,국산,SUV,EV,7,6759,published-start,official,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+staria-hev,현대,더 뉴 스타리아 하이브리드,국산,MPV,HEV,9,4350,estimate,estimate,legacy-needs-recheck,previous-release,https://www.hyundai.com/kr/ko/e/all-vehicles
+morning,기아,모닝,국산,경차,GAS,5,1400,estimate,estimate,legacy-needs-recheck,previous-release,https://www.kia.com/kr/vehicles/morning/price
+ray,기아,레이,국산,경차,GAS,5,1490,estimate,estimate,legacy-needs-recheck,previous-release,https://www.kia.com/kr/vehicles/ray/price
+ray-ev,기아,레이 EV (4인승),국산,경차,EV,4,2852,published-start,official,legacy-needs-recheck,previous-release,https://www.kia.com/kr/vehicles/ray-ev/price
+seltos,기아,디 올 뉴 셀토스 1.6T,국산,SUV,GAS,5,2512,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.kia.com/kr/vehicles/seltos/price/
+seltos-hev,기아,디 올 뉴 셀토스 하이브리드,국산,SUV,HEV,5,3020,estimate,estimate,legacy-needs-recheck,previous-release,https://www.kia.com/kr/vehicles/seltos/price
+k5,기아,K5,국산,세단,GAS,5,2892,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.kia.com/kr/vehicles/k5/price/private
+k5-hev,기아,K5 하이브리드,국산,세단,HEV,5,3334,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.kia.com/kr/vehicles/k5/price/private
+k8,기아,2027 K8 2.5 가솔린,국산,세단,GAS,5,3731,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.kia.com/kr/vehicles/k8/price/private
+k8-hev,기아,2027 K8 하이브리드,국산,세단,HEV,5,4267,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.kia.com/kr/vehicles/k8/price/private
+sportage,기아,스포티지,국산,SUV,GAS,5,2944,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.kia.com/kr/vehicles/sportage/price
+sportage-hev,기아,스포티지 하이브리드,국산,SUV,HEV,5,3436,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.kia.com/kr/vehicles/sportage/price
+sorento,기아,쏘렌토 2.5T,국산,SUV,GAS,7,3641,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.kia.com/kr/vehicles/sorento/price
+sorento-hev,기아,쏘렌토 하이브리드,국산,SUV,HEV,7,3963,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.kia.com/kr/vehicles/sorento/price
+carnival,기아,카니발 3.5,국산,MPV,GAS,9,3686,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.kia.com/kr/vehicles/carnival/price/
+carnival-hev,기아,카니발 하이브리드,국산,MPV,HEV,9,4141,estimate,estimated_from_official,legacy-needs-recheck,previous-release,https://www.kia.com/kr/vehicles/carnival/price
+EV3,기아,EV3,국산,SUV,EV,5,3995,published-start,official,legacy-needs-recheck,previous-release,https://www.kia.com/kr/vehicles/ev3/price
+EV4,기아,EV4,국산,세단,EV,5,4042,published-start,official,legacy-needs-recheck,previous-release,https://www.kia.com/kr/vehicles/ev4/price
+EV5,기아,EV5,국산,SUV,EV,5,4155,published-start,official,legacy-needs-recheck,previous-release,https://www.kia.com/kr/vehicles/ev5/price
+EV6,기아,EV6,국산,SUV,EV,5,5260,estimate,estimate,legacy-needs-recheck,previous-release,https://www.kia.com/kr/vehicles/ev6/price
+EV9,기아,EV9,국산,SUV,EV,7,6900,estimate,estimate,legacy-needs-recheck,previous-release,https://www.kia.com/kr/vehicles/ev9/price
+G70,제네시스,G70,국산,세단,GAS,5,4500,published-start,official,legacy-needs-recheck,previous-release,https://www.genesis.com/kr/ko/models/g70
+G80,제네시스,G80,국산,세단,GAS,5,6063,published-start,official,legacy-needs-recheck,previous-release,https://www.genesis.com/kr/ko/models/g80
+G90,제네시스,G90,국산,세단,GAS,5,9748,published-start,official,legacy-needs-recheck,previous-release,https://www.genesis.com/kr/ko/models/g90
+GV70,제네시스,GV70,국산,SUV,GAS,5,5473,published-start,official,legacy-needs-recheck,previous-release,https://www.genesis.com/kr/ko/models/gv70
+GV80,제네시스,GV80,국산,SUV,GAS,7,6985,published-start,official,legacy-needs-recheck,previous-release,https://www.genesis.com/kr/ko/models/gv80
+GV60,제네시스,GV60,국산,SUV,EV,5,6828,published-start,official,legacy-needs-recheck,previous-release,https://www.genesis.com/kr/ko/models/gv60
+model3,테슬라,모델 3,수입,세단,EV,5,5300,estimate,estimate,legacy-needs-recheck,previous-release,https://www.tesla.com/ko_kr/model3
+modely,테슬라,모델 Y,수입,SUV,EV,5,5300,estimate,estimate,legacy-needs-recheck,previous-release,https://www.tesla.com/ko_kr/modely
+rav4,토요타,RAV4 하이브리드,수입,SUV,HEV,5,4500,estimate,estimate,legacy-needs-recheck,previous-release,https://www.toyota.co.kr
+camry,토요타,캠리 하이브리드,수입,세단,HEV,5,4800,estimate,estimate,legacy-needs-recheck,previous-release,https://www.toyota.co.kr
+prius,토요타,프리우스,수입,세단,HEV,5,4000,estimate,estimate,legacy-needs-recheck,previous-release,https://www.toyota.co.kr
+es300h,렉서스,ES 300h,수입,세단,HEV,5,6500,estimate,estimate,legacy-needs-recheck,previous-release,https://www.lexus.co.kr
+nx350h,렉서스,NX 350h,수입,SUV,HEV,5,6900,estimate,estimate,legacy-needs-recheck,previous-release,https://www.lexus.co.kr
+crv,혼다,CR-V 하이브리드,수입,SUV,HEV,5,5600,estimate,estimate,legacy-needs-recheck,previous-release,https://www.hondakorea.co.kr
+accord,혼다,어코드 하이브리드,수입,세단,HEV,5,5300,estimate,estimate,legacy-needs-recheck,previous-release,https://www.hondakorea.co.kr
+320i,BMW,320i,수입,세단,GAS,5,5800,estimate,estimate,legacy-needs-recheck,previous-release,https://www.bmw.co.kr
+520i,BMW,520i,수입,세단,GAS,5,7100,estimate,estimate,legacy-needs-recheck,previous-release,https://www.bmw.co.kr
+x1,BMW,X1,수입,SUV,GAS,5,6100,estimate,estimate,legacy-needs-recheck,previous-release,https://www.bmw.co.kr
+x3,BMW,X3,수입,SUV,GAS,5,7200,estimate,estimate,legacy-needs-recheck,previous-release,https://www.bmw.co.kr
+x5,BMW,X5,수입,SUV,GAS,7,12500,estimate,estimate,legacy-needs-recheck,previous-release,https://www.bmw.co.kr
+c200,벤츠,C 200,수입,세단,GAS,5,6500,estimate,estimate,legacy-needs-recheck,previous-release,https://www.mercedes-benz.co.kr
+e200,벤츠,E 200,수입,세단,GAS,5,7400,estimate,estimate,legacy-needs-recheck,previous-release,https://www.mercedes-benz.co.kr
+glc,벤츠,GLC 300,수입,SUV,GAS,5,8700,estimate,estimate,legacy-needs-recheck,previous-release,https://www.mercedes-benz.co.kr
+gle,벤츠,GLE 450,수입,SUV,GAS,7,12700,estimate,estimate,legacy-needs-recheck,previous-release,https://www.mercedes-benz.co.kr
+q5,아우디,Q5,수입,SUV,GAS,5,7000,estimate,estimate,legacy-needs-recheck,previous-release,https://www.audi.co.kr
+a6,아우디,A6,수입,세단,GAS,5,6900,estimate,estimate,legacy-needs-recheck,previous-release,https://www.audi.co.kr
+xc40,볼보,XC40,수입,SUV,GAS,5,5230,trim-audited,official,legacy-needs-recheck,2026-10-08,https://www.volvocars.com/kr/cars/xc40/
+xc60,볼보,XC60,수입,SUV,GAS,5,6500,estimate,estimate,legacy-needs-recheck,previous-release,https://www.volvocars.com/kr
+xc90,볼보,XC90,수입,SUV,GAS,7,8800,estimate,estimate,legacy-needs-recheck,previous-release,https://www.volvocars.com/kr
+id4,폭스바겐,ID.4,수입,SUV,EV,5,5400,estimate,estimate,legacy-needs-recheck,previous-release,https://www.volkswagen.co.kr
+tiguan,폭스바겐,티구안,수입,SUV,GAS,5,5000,estimate,estimate,legacy-needs-recheck,previous-release,https://www.volkswagen.co.kr
+atto3,BYD,아토 3,수입,SUV,EV,5,3150,estimate,estimate,legacy-needs-recheck,previous-release,https://www.bydauto.kr
+seal,BYD,씰,수입,세단,EV,5,4000,estimate,estimate,legacy-needs-recheck,previous-release,https://www.bydauto.kr
+sealion7,BYD,씨라이언 7,수입,SUV,EV,5,4800,estimate,estimate,legacy-needs-recheck,previous-release,https://www.bydauto.kr
+macan,포르쉐,마칸 일렉트릭,수입,SUV,EV,5,11000,estimate,estimate,legacy-needs-recheck,previous-release,https://www.porsche.com/korea/ko
+market-2027-electric-f12761b8b6,현대,2027 캐스퍼 Electric,국산,경차,EV,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-2027-f0f282ecdd,현대,2027 캐스퍼,국산,경차,GAS,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-kr-694f189065,현대,넥쏘,국산,SUV,FCEV,,7647,published-start,official,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-5-n-021dcf50f9,현대,아이오닉 5 N,국산,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-6-n-f8ede4cdcf,현대,아이오닉 6 N,국산,세단,EV,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-9-calligraphy-3dfc99ecbe,현대,아이오닉 9 Calligraphy,국산,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-n-line-894d3a04ee,현대,코나 N Line,국산,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-n-line-11565568a6,현대,투싼 N Line,국산,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-2027-758f2d9fea,현대,2027 스타리아,국산,MPV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-kr-71585f8ac2,현대,더 뉴 스타리아 라운지,국산,MPV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-hybrid-633b84766f,현대,더 뉴 스타리아 라운지 Hybrid,국산,MPV,HEV,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-electric-946cacc25a,현대,더 뉴 스타리아 Electric,국산,MPV,EV,,5792,published-start,official,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-electric-ffbda0d149,현대,더 뉴 스타리아 라운지 Electric,국산,MPV,EV,,6359,published-start,official,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-electric-7a31c37876,현대,더 뉴 스타리아 리무진 Electric,국산,MPV,EV,,8482,published-start,official,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-kr-03f96e85dd,현대,스타리아 킨더,국산,MPV,GAS,,4166,published-start,official,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-st1-5a10b02438,현대,ST1 카고,국산,상용,EV,,5738,published-start,official,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-ii-388e348425,현대,포터 II,국산,상용,DIESEL,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-ii-electric-2028c6be3f,현대,포터 II Electric,국산,상용,EV,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-kr-74e0a6a416,현대,쏠라티,국산,상용,DIESEL,,,none,unpriced,official-list,2026-10-08,https://www.hyundai.com/kr/ko/e/all-vehicles
+market-ev3-gt-c0590fde6b,기아,EV3 GT,국산,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-ev4-gt-f6cfed2a5e,기아,EV4 GT,국산,세단,EV,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-ev5-gt-487500bb62,기아,EV5 GT,국산,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-ev6-gt-314cead666,기아,EV6 GT,국산,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-ev9-gt-92a6b3a074,기아,EV9 GT,국산,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-x-line-6c22f79b9b,기아,셀토스 X-Line,국산,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-hev-9c60599ce5,기아,니로 HEV,국산,SUV,HEV,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-ev-8ecb73a895,기아,니로 EV,국산,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-kr-7796395d8e,기아,카니발 하이리무진,국산,MPV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-hybrid-eae8448fb4,기아,카니발 하이리무진 Hybrid,국산,MPV,HEV,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-kr-79eef3fc1a,기아,타스만,국산,픽업,DIESEL,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-iii-e1f6f63c01,기아,봉고 III,국산,상용,DIESEL,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-iii-ev-2ef60804e4,기아,봉고 III EV,국산,상용,EV,,,none,unpriced,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-pv5-e4f2dce7a2,기아,PV5 패신저,국산,MPV,EV,,4590,published-start,official,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-pv5-19c3864898,기아,PV5 카고 롱,국산,상용,EV,,4250,published-start,official,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-pv5-b856a27791,기아,PV5 카고 컴팩트,국산,상용,EV,,4100,published-start,official,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-pv5-wav-508eceacdc,기아,PV5 WAV,국산,MPV,EV,,5160,published-start,official,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-pv5-225bfbf014,기아,PV5 프라임,국산,MPV,EV,,4945,published-start,official,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-pv5-f986c9f8e7,기아,PV5 오픈베드,국산,상용,EV,,4395,published-start,official,official-list,2026-10-08,https://www.kia.com/kr/vehicles/catalog-price
+market-g70-651f59430d,제네시스,G70 슈팅 브레이크,국산,왜건,GAS,,,none,unpriced,official-list,2026-10-08,https://www.genesis.com/kr/ko/shopping/quote.html
+market-electrified-g80-0c64a2454f,제네시스,Electrified G80,국산,세단,EV,,,none,unpriced,official-list,2026-10-08,https://www.genesis.com/kr/ko/shopping/quote.html
+market-g80-black-3324996ffc,제네시스,G80 Black,국산,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.genesis.com/kr/ko/shopping/quote.html
+market-g90-black-286f50f06e,제네시스,G90 Black,국산,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.genesis.com/kr/ko/shopping/quote.html
+market-g90-af2f50aa73,제네시스,G90 롱휠베이스,국산,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.genesis.com/kr/ko/shopping/quote.html
+market-g90-black-35fb173046,제네시스,G90 롱휠베이스 Black,국산,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.genesis.com/kr/ko/shopping/quote.html
+market-gv80-coupe-74c9cab753,제네시스,GV80 Coupe,국산,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.genesis.com/kr/ko/shopping/quote.html
+market-gv80-coupe-black-f51c216dad,제네시스,GV80 Coupe Black,국산,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.genesis.com/kr/ko/shopping/quote.html
+market-gv80-black-72b30a03d1,제네시스,GV80 Black,국산,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.genesis.com/kr/ko/shopping/quote.html
+market-electrified-gv70-4da44600bf,제네시스,Electrified GV70,국산,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.genesis.com/kr/ko/shopping/quote.html
+market-gv60-magma-5194f8aa50,제네시스,GV60 Magma,국산,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.genesis.com/kr/ko/shopping/quote.html
+market-kgm-f0564f0222,KGM,액티언 하이브리드,국산,SUV,HEV,,3895,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-kgm-74215b2c63,KGM,토레스 하이브리드,국산,SUV,HEV,,3302,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-kgm-0e759b5109,KGM,토레스,국산,SUV,GAS,,2996,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-kgm-evx-3752aa5f4a,KGM,토레스 EVX,국산,SUV,EV,,4602,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-kgm-5d11f66170,KGM,액티언,국산,SUV,GAS,,3617,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-kgm-061bda7f2c,KGM,렉스턴 뉴 아레나,국산,SUV,DIESEL,,4106,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-kgm-9ff532870d,KGM,렉스턴 써밋,국산,SUV,DIESEL,,6150,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-kgm-91c0f04d0e,KGM,티볼리,국산,SUV,GAS,,2097,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-kgm-52f704d1cd,KGM,무쏘,국산,픽업,DIESEL,,3040,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-kgm-ev-b19f3c1938,KGM,무쏘 EV,국산,픽업,EV,,4850,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-kgm-8dbd7c810e,KGM,토레스 밴,국산,상용,GAS,,2815,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-kgm-evx-ddd8f0c11a,KGM,토레스 EVX 밴,국산,상용,EV,,4520,published-start,official,official-list,2026-10-08,https://www.kg-mobility.com/pr/model
+market-2026-6e0abf5ebe,쉐보레,2026 트랙스 크로스오버,국산,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.chevrolet.co.kr/
+market-2026-1d37356759,쉐보레,2026 트레일블레이저,국산,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.chevrolet.co.kr/
+market-kr-7b5ab46a88,르노코리아,그랑 콜레오스,국산,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.renault.co.kr/
+market-kr-1220c67904,르노코리아,그랑 콜레오스 하이브리드,국산,SUV,HEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.renault.co.kr/
+market-kr-7cb875ec50,르노코리아,필랑트,국산,SUV,HEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.renault.co.kr/
+market-kr-fed6e0989f,르노코리아,아르카나,국산,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.renault.co.kr/
+market-e-tech-74096bc5d5,르노코리아,아르카나 E-Tech,국산,SUV,HEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.renault.co.kr/
+market-e-tech-electric-6caf4f22ca,르노코리아,세닉 E-Tech Electric,국산,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.renault.co.kr/
+market-bmw-1-7dace79b72,BMW,1 시리즈,수입,해치백,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-2-c0dd124c4b,BMW,2 시리즈 그란 쿠페,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-2-9c0e8eaa66,BMW,2 시리즈 쿠페,수입,쿠페,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-3-a9f2a44cbd,BMW,3 시리즈,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-3-abad122336,BMW,3 시리즈 투어링,수입,왜건,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-4-9b55254a46,BMW,4 시리즈 쿠페,수입,쿠페,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-4-2839a7546a,BMW,4 시리즈 그란 쿠페,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-4-7e3e34a0d1,BMW,4 시리즈 컨버터블,수입,컨버터블,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-5-591d14010c,BMW,5 시리즈,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-5-1c6b15faf1,BMW,5 시리즈 투어링,수입,왜건,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-7-4b7e2985d3,BMW,7 시리즈,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-8-dae32375a6,BMW,8 시리즈,수입,쿠페,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-x2-2e4ea20934,BMW,X2,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-x4-af5a5ca824,BMW,X4,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-x6-30a3186672,BMW,X6,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-x7-789e32bac3,BMW,X7,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-xm-76b271f0d7,BMW,XM,수입,SUV,PHEV,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-i4-ba3b8f5e14,BMW,i4,수입,세단,EV,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-i5-94e96a4073,BMW,i5,수입,세단,EV,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-i7-202b9247b3,BMW,i7,수입,세단,EV,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-ix-b390714aff,BMW,iX,수입,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-ix3-e35edd0129,BMW,iX3,수입,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-z4-ceed2383f0,BMW,Z4,수입,컨버터블,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-m2-f8a0e6cf20,BMW,M2,수입,쿠페,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-m3-3ad3a3ac3a,BMW,M3,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-m4-1efa1bd1ce,BMW,M4,수입,쿠페,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-m5-1b156fe98a,BMW,M5,수입,세단,PHEV,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-bmw-m8-65749c9d07,BMW,M8,수입,쿠페,GAS,,,none,unpriced,official-list,2026-10-08,https://www.bmw.co.kr/ko/all-models.html
+market-a-class-hatch-a612c21534,벤츠,A-Class Hatch,수입,해치백,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-cla-588a2f4e0e,벤츠,CLA 쿠페,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-c-class-1cbb10fea4,벤츠,C-Class,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-e-class-22e5eed77d,벤츠,E-Class,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-e-class-phev-d89d52215d,벤츠,E-Class PHEV,수입,세단,PHEV,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-s-class-ca01451d91,벤츠,S-Class,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-s-class-long-8a375b174a,벤츠,S-Class Long,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-maybach-s-class-785760e303,벤츠,Maybach S-Class,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-gla-fa9526f557,벤츠,GLA,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-glb-a38195792d,벤츠,GLB,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-glc-0582c9695b,벤츠,GLC,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-glc-coupe-84aa17c2e8,벤츠,GLC Coupe,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-gle-b9df2d4ea3,벤츠,GLE,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-gle-coupe-d1e59c4137,벤츠,GLE Coupe,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-gls-a7d0fecaf6,벤츠,GLS,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-maybach-gls-0e42d35ce0,벤츠,Maybach GLS,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-g-class-0418e6ff96,벤츠,G-Class,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-g-class-electric-ddcafaadd6,벤츠,G-Class Electric,수입,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-eqe-53f651afcc,벤츠,EQE,수입,세단,EV,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-eqe-suv-e3fafb28e4,벤츠,EQE SUV,수입,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-eqs-suv-8c8a1444e9,벤츠,EQS SUV,수입,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-maybach-eqs-suv-50ad29ac3c,벤츠,Maybach EQS SUV,수입,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-cle-coupe-4c87ed1065,벤츠,CLE Coupe,수입,쿠페,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-cle-cabriolet-4acf4b7bb4,벤츠,CLE Cabriolet,수입,컨버터블,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-amg-gt-coupe-5a1201abe5,벤츠,AMG GT Coupe,수입,쿠페,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-amg-gt-4-door-2cb483e995,벤츠,AMG GT 4-Door,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-amg-sl-roadster-e9a1e655e1,벤츠,AMG SL Roadster,수입,컨버터블,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-maybach-sl-254b0ca70d,벤츠,Maybach SL,수입,컨버터블,GAS,,,none,unpriced,official-list,2026-10-08,https://www.mercedes-benz.co.kr/passengercars/models.html?group=all&subgroup=see-all&view=BODYTYPE
+market-a3-23634a1b83,아우디,A3,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-a3-sportback-257034a3f8,아우디,A3 Sportback,수입,해치백,GAS,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-a5-bae1350d51,아우디,A5,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-a5-avant-0dc801371d,아우디,A5 Avant,수입,왜건,GAS,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-a8-fb6fef754c,아우디,A8,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-q3-2b8d1446e6,아우디,Q3,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-q3-sportback-19e490fd3a,아우디,Q3 Sportback,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-q5-sportback-f13dba3282,아우디,Q5 Sportback,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-q7-71f6f569c4,아우디,Q7,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-q8-1383742282,아우디,Q8,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-rs-q8-performance-5eacc638da,아우디,RS Q8 performance,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-q4-e-tron-16f954bee7,아우디,Q4 e-tron,수입,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-q4-sportback-e-tron-a2b5a13e52,아우디,Q4 Sportback e-tron,수입,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-q6-e-tron-3ae7e6b896,아우디,Q6 e-tron,수입,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-a6-e-tron-0cb32f82d0,아우디,A6 e-tron,수입,세단,EV,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-e-tron-gt-6c05fbc0b5,아우디,e-tron GT,수입,세단,EV,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-rs-e-tron-gt-performance-dea6353291,아우디,RS e-tron GT performance,수입,세단,EV,,,none,unpriced,official-list,2026-10-08,https://www.audi.co.kr/ko/models/
+market-golf-8150c8a9d6,폭스바겐,Golf,수입,해치백,GAS,,,none,unpriced,official-list,2026-10-08,https://www.volkswagen.co.kr/ko/models.html
+market-golf-gti-ae62776ad2,폭스바겐,Golf GTI,수입,해치백,GAS,,,none,unpriced,official-list,2026-10-08,https://www.volkswagen.co.kr/ko/models.html
+market-atlas-d4d99ccdfe,폭스바겐,Atlas,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.volkswagen.co.kr/ko/models.html
+market-touareg-16f243de7e,폭스바겐,Touareg,수입,SUV,DIESEL,,,none,unpriced,official-list,2026-10-08,https://www.volkswagen.co.kr/ko/models.html
+market-id-5-6f7e01a0ec,폭스바겐,ID.5,수입,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.volkswagen.co.kr/ko/models.html
+market-polestar-2-c50d4ccfaa,폴스타,Polestar 2,수입,세단,EV,,4390,published-start,official,official-list,2026-10-08,https://www.polestar.com/kr/stock-cars/
+market-polestar-3-23e2e5d633,폴스타,Polestar 3,수입,SUV,EV,,7790,published-start,official,official-list,2026-10-08,https://www.polestar.com/kr/stock-cars/
+market-polestar-4-coup-3b70bebe72,폴스타,Polestar 4 coupé,수입,SUV,EV,,6690,published-start,official,official-list,2026-10-08,https://www.polestar.com/kr/stock-cars/
+market-all-new-rav4-hev-534ae102b9,토요타,All New RAV4 HEV,수입,SUV,HEV,,,none,unpriced,official-list,2026-10-08,https://toyota.co.kr/
+market-all-new-rav4-phev-da439da90a,토요타,All New RAV4 PHEV,수입,SUV,PHEV,,,none,unpriced,official-list,2026-10-08,https://toyota.co.kr/
+market-crown-20bda800bc,토요타,Crown,수입,세단,HEV,,,none,unpriced,official-list,2026-10-08,https://toyota.co.kr/
+market-sienna-hybrid-ca38ead5e4,토요타,Sienna Hybrid,수입,MPV,HEV,,,none,unpriced,official-list,2026-10-08,https://toyota.co.kr/
+market-highlander-hybrid-a3dbd0d49c,토요타,Highlander Hybrid,수입,SUV,HEV,,,none,unpriced,official-list,2026-10-08,https://toyota.co.kr/
+market-lbx-1de01496fe,렉서스,LBX,수입,SUV,HEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lexus.co.kr/
+market-ux-300h-305252a17f,렉서스,UX 300h,수입,SUV,HEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lexus.co.kr/
+market-nx-450h-110b435338,렉서스,NX 450h+,수입,SUV,PHEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lexus.co.kr/
+market-rx-350h-c7d5d5bd9e,렉서스,RX 350h,수입,SUV,HEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lexus.co.kr/
+market-rx-450h-4bc0fb41ac,렉서스,RX 450h+,수입,SUV,PHEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lexus.co.kr/
+market-rx-500h-fa08decdf6,렉서스,RX 500h,수입,SUV,HEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lexus.co.kr/
+market-rz-329f51e7e3,렉서스,RZ,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lexus.co.kr/
+market-lm-500h-8dcb676794,렉서스,LM 500h,수입,MPV,HEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lexus.co.kr/
+market-lx-b2e3cb7880,렉서스,LX,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lexus.co.kr/
+market-ex30-8fae32d8af,볼보,EX30,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.volvocars.com/kr/cars/
+market-ex40-53a635fdcf,볼보,EX40,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.volvocars.com/kr/cars/
+market-ec40-8a3df58cf6,볼보,EC40,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.volvocars.com/kr/cars/
+market-ex90-60723a6d67,볼보,EX90,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.volvocars.com/kr/cars/
+market-s90-be1eb6d946,볼보,S90,수입,세단,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.volvocars.com/kr/cars/
+market-v60-cross-country-d90f2f309f,볼보,V60 Cross Country,수입,왜건,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.volvocars.com/kr/cars/
+market-model-y-l-ce11bee3a2,테슬라,Model Y L,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.tesla.com/ko_kr/models
+market-911-carrera-000090b3a0,포르쉐,911 Carrera,수입,쿠페,GAS,,,none,unpriced,official-list,2026-10-08,https://www.porsche.com/korea/ko/models/
+market-911-carrera-cabriolet-efbe9497f8,포르쉐,911 Carrera Cabriolet,수입,컨버터블,GAS,,,none,unpriced,official-list,2026-10-08,https://www.porsche.com/korea/ko/models/
+market-911-turbo-916ca23b41,포르쉐,911 Turbo,수입,쿠페,GAS,,,none,unpriced,official-list,2026-10-08,https://www.porsche.com/korea/ko/models/
+market-taycan-e8520c9c6e,포르쉐,Taycan,수입,세단,EV,,,none,unpriced,official-list,2026-10-08,https://www.porsche.com/korea/ko/models/
+market-taycan-cross-turismo-73ed8fa21d,포르쉐,Taycan Cross Turismo,수입,왜건,EV,,,none,unpriced,official-list,2026-10-08,https://www.porsche.com/korea/ko/models/
+market-panamera-d96278fd76,포르쉐,Panamera,수입,세단,GAS,,,none,unpriced,official-list,2026-10-08,https://www.porsche.com/korea/ko/models/
+market-panamera-e-hybrid-0914f2f5aa,포르쉐,Panamera E-Hybrid,수입,세단,PHEV,,,none,unpriced,official-list,2026-10-08,https://www.porsche.com/korea/ko/models/
+market-macan-electric-8fb0440809,포르쉐,Macan Electric,수입,SUV,EV,,,none,unpriced,official-list,2026-10-08,https://www.porsche.com/korea/ko/models/
+market-cayenne-87bcd54cfc,포르쉐,Cayenne,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.porsche.com/korea/ko/models/
+market-cayenne-coupe-96402eeac4,포르쉐,Cayenne Coupe,수입,SUV,GAS,,,none,unpriced,official-list,2026-10-08,https://www.porsche.com/korea/ko/models/
+market-cayenne-e-hybrid-5d5e1deff1,포르쉐,Cayenne E-Hybrid,수입,SUV,PHEV,,,none,unpriced,official-list,2026-10-08,https://www.porsche.com/korea/ko/models/
+market-wrangler-09a0caf4fd,지프,Wrangler,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.jeep.co.kr/
+market-byd-atto-3-d1dd17d6c1,BYD,Atto 3,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.bydauto.kr/
+market-byd-seal-61e32b1643,BYD,Seal,수입,세단,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.bydauto.kr/
+market-byd-sealion-7-b4be1ce96c,BYD,Sealion 7,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.bydauto.kr/
+market-mini-cooper-3-door-842a3fa4c3,미니,MINI Cooper 3-Door,수입,해치백,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.mini.co.kr/
+market-mini-cooper-5-door-402be2f12a,미니,MINI Cooper 5-Door,수입,해치백,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.mini.co.kr/
+market-mini-cooper-electric-c9320e688e,미니,MINI Cooper Electric,수입,해치백,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.mini.co.kr/
+market-mini-countryman-accb31a21a,미니,MINI Countryman,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.mini.co.kr/
+market-mini-countryman-electric-6fea6f2251,미니,MINI Countryman Electric,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.mini.co.kr/
+market-mini-aceman-electric-7b79d74459,미니,MINI Aceman Electric,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.mini.co.kr/
+market-mini-convertible-302920d732,미니,MINI Convertible,수입,컨버터블,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.mini.co.kr/
+market-defender-90-f88ec57219,랜드로버,Defender 90,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.landrover.co.kr/
+market-defender-110-fd8fd3ca97,랜드로버,Defender 110,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.landrover.co.kr/
+market-defender-130-2eeca5aad0,랜드로버,Defender 130,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.landrover.co.kr/
+market-discovery-9f9b6715f2,랜드로버,Discovery,수입,SUV,DIESEL,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.landrover.co.kr/
+market-discovery-sport-3573450d46,랜드로버,Discovery Sport,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.landrover.co.kr/
+market-range-rover-evoque-c11281f30c,랜드로버,Range Rover Evoque,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.landrover.co.kr/
+market-range-rover-velar-39cb31995c,랜드로버,Range Rover Velar,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.landrover.co.kr/
+market-range-rover-sport-1a86e9d17d,랜드로버,Range Rover Sport,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.landrover.co.kr/
+market-range-rover-9bc519d23c,랜드로버,Range Rover,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.landrover.co.kr/
+market-explorer-f9230a8dbf,포드,Explorer,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.ford.co.kr/
+market-bronco-2bcd93b8ad,포드,Bronco,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.ford.co.kr/
+market-mustang-1497b33826,포드,Mustang,수입,쿠페,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.ford.co.kr/
+market-corsair-f255a9ed52,링컨,Corsair,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lincoln-korea.com/
+market-nautilus-0becba59bf,링컨,Nautilus,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lincoln-korea.com/
+market-aviator-ae2b70da1a,링컨,Aviator,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lincoln-korea.com/
+market-navigator-3028757120,링컨,Navigator,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lincoln-korea.com/
+market-escalade-1b8f617de9,캐딜락,Escalade,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.cadillac.co.kr/
+market-escalade-iq-05d61e4fce,캐딜락,Escalade IQ,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.cadillac.co.kr/
+market-lyriq-d288f6f5d8,캐딜락,Lyriq,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.cadillac.co.kr/
+market-308-c327be39f1,푸조,308,수입,해치백,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.peugeot.co.kr/
+market-408-50871e27a8,푸조,408,수입,세단,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.peugeot.co.kr/
+market-2008-37dcbbb8aa,푸조,2008,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.peugeot.co.kr/
+market-3008-c1a1fc20f2,푸조,3008,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.peugeot.co.kr/
+market-5008-3be096b706,푸조,5008,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.peugeot.co.kr/
+market-grecale-7e905d2979,마세라티,Grecale,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.maserati.com/kr/ko
+market-grecale-folgore-c268b7e47e,마세라티,Grecale Folgore,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.maserati.com/kr/ko
+market-granturismo-7acd13447d,마세라티,GranTurismo,수입,쿠페,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.maserati.com/kr/ko
+market-grancabrio-c98f3a7e2e,마세라티,GranCabrio,수입,컨버터블,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.maserati.com/kr/ko
+market-continental-gt-efeae840c9,벤틀리,Continental GT,수입,쿠페,PHEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.bentleymotors.com/en.html
+market-flying-spur-d037e71108,벤틀리,Flying Spur,수입,세단,PHEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.bentleymotors.com/en.html
+market-ghost-7cbb3d7a4e,롤스로이스,Ghost,수입,세단,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.rolls-roycemotorcars.com/en_GB/home.html
+market-phantom-8776fbdbf6,롤스로이스,Phantom,수입,세단,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.rolls-roycemotorcars.com/en_GB/home.html
+market-cullinan-1147480e00,롤스로이스,Cullinan,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.rolls-roycemotorcars.com/en_GB/home.html
+market-spectre-836cdaaff3,롤스로이스,Spectre,수입,쿠페,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.rolls-roycemotorcars.com/en_GB/home.html
+market-gmc-8081a9b1f1,GMC,아카디아,수입,SUV,GAS,,9128,published-start,official,manufacturer-portal-recheck,2026-10-08,https://www.gmckorea.co.kr/purchase/onlineshop/index.gm
+market-gmc-55a01cf5bd,GMC,캐니언,수입,픽업,GAS,,7685,published-start,official,manufacturer-portal-recheck,2026-10-08,https://www.gmckorea.co.kr/purchase/onlineshop/index.gm
+market-gmc-ev-suv-fb756426d6,GMC,허머 EV SUV,수입,SUV,EV,,24800,published-start,official,manufacturer-portal-recheck,2026-10-08,https://www.gmckorea.co.kr/purchase/onlineshop/index.gm
+market-gmc-b579cb3f56,GMC,시에라,수입,픽업,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.gmckorea.co.kr/purchase/onlineshop/index.gm
+market-eletre-fb1abeea46,로터스,Eletre,수입,SUV,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lotuscars.com/ko-KR
+market-emeya-7b9c83d990,로터스,Emeya,수입,세단,EV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lotuscars.com/ko-KR
+market-emira-d020b39c62,로터스,Emira,수입,쿠페,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lotuscars.com/ko-KR
+market-db12-0b97635c78,애스턴마틴,DB12,수입,쿠페,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://astonmartinseoul.com/
+market-dbx707-cfdb0ee764,애스턴마틴,DBX707,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://astonmartinseoul.com/
+market-vantage-d96ee8d7d7,애스턴마틴,Vantage,수입,쿠페,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://astonmartinseoul.com/
+market-purosangue-af84a69bc9,페라리,Purosangue,수입,SUV,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.ferrari.com/en-EN/auto
+market-12cilindri-e4dad3d866,페라리,12Cilindri,수입,쿠페,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.ferrari.com/en-EN/auto
+market-amalfi-efa911b266,페라리,Amalfi,수입,쿠페,GAS,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.ferrari.com/en-EN/auto
+market-849-testarossa-fd7afad277,페라리,849 Testarossa,수입,쿠페,PHEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.ferrari.com/en-EN/auto
+market-296-speciale-71be56b677,페라리,296 Speciale,수입,쿠페,PHEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.ferrari.com/en-EN/auto
+market-urus-se-f005892184,람보르기니,Urus SE,수입,SUV,PHEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lamborghini.com/en-en
+market-revuelto-f6ba4fd591,람보르기니,Revuelto,수입,쿠페,PHEV,,,none,unpriced,manufacturer-portal-recheck,2026-10-08,https://www.lamborghini.com/en-en

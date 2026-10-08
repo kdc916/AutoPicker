@@ -15,3 +15,5 @@
 /* v2.3.0 — verified package-price breakdown */
 .package-summary{display:flex;flex-wrap:wrap;gap:6px 12px;margin-top:5px;padding-top:7px;border-top:1px solid #37536f;color:#c8dcfb;font-size:11px}.package-status{font-size:12px;line-height:1.55;background:#192d4a;border:1px solid #456c99;border-radius:10px;padding:12px;color:#d0e7ff;margin-bottom:9px}.package-subtotal{margin-top:7px;padding-top:12px;border-top:1px solid #5d7299}.package-subtotal strong{color:#a0eccc}.feature-availability,.feature-missing{display:block;font-size:10px;color:#a9e5c5}.feature-missing{color:#ffbf9c}.realopt:has(input:disabled){opacity:1;background:#172f46;border-color:#4a7491}.realopt em{font-style:normal;color:#a1f4c8}.auto-trim-note{border-color:#4c7caa}
 
+/* v2.7.0 market-catalog */
+.catalog-tools{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;padding:10px 0;color:#9bafcc;font-size:12px}.catalog-tools .secondary{min-height:36px}.unknown-price{font-size:19px;color:#fbbf83}.source-badge{max-width:100%;overflow-wrap:anywhere}@media(max-width:600px){.catalog-tools{align-items:flex-start;flex-direction:column}.catalog-tools button{width:100%}}

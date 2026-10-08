@@ -86,6 +86,11 @@ const catalog={
  {id:'hev-best',name:'1.6T HEV 베스트 셀렉션 · 5인승',price:4420,seats:5,baseFeatures:f('cruise','lane','hda','park','surround','vent','trunk'),options:[o('roof','파노라마 선루프',109,{features:['sunroof']}),o('audio','메리디안 프리미엄 사운드',109,{features:['audio']}),o('premium','프리미엄',69)]}
 ]}
 
+,'xc40':{reviewed:'2026-10-08',priceDate:'2026-10-08',url:'https://www.volvocars.com/kr/cars/xc40/',note:'2026 XC40 B4 AWD 마일드 하이브리드, 국내 Volvo Cars 공식 사이트 현재 공개 트림가. Plus 5,230만원(현 표시 가격 1원 차이 반올림), Ultra 5,490만원. 모든 구성이 마일드 HEV이며 외장/인테리어 변경 옵션·할인은 미포함. Pilot Assist, ACC 및 AWD 기본. Ultra 360카메라, 하만카돈 기본. 국내 최종 발주 가능 여부 확인 필요.',trims:[
+  {id:'xc40-plus-b4',name:'2026 XC40 B4 AWD Plus',price:5230,seats:5,baseFeatures:f('cruise','lane','awd','sunroof'),options:[]},
+  {id:'xc40-ultra-b4',name:'2026 XC40 B4 AWD Ultra',price:5490,seats:5,baseFeatures:f('cruise','lane','awd','sunroof','surround','audio'),options:[]}
+]}
+
 };
 function get(id){return catalog[id]||null;}
 function trim(id,trimId){const spec=get(id);return spec?.trims.find(t=>t.id===trimId)||spec?.trims[0]||null;}
@@ -93,4 +98,3 @@ function normalize(id,config={}){const t=trim(id,config.trimId);if(!t)return {..
 function options(id,config={}){const t=trim(id,config.trimId);return t?normalize(id,config).optionIds.map(key=>t.options.find(o=>o.id===key)):[];}
 return {catalog,get,trim,normalize,options};
 });
-

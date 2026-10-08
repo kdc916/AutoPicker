@@ -38,13 +38,15 @@
       if(fraction<0.5&&bad)flags.push(bad);
     };
     const seats=Number(p.seats)||0;
-    if(seats>0 && v.seats<seats) return null; // hard constraint
+    if(seats>0 && Number.isFinite(v.seats) && v.seats<seats) return null; // hard constraint when seats confirmed
     if(seats>=4) push(12, v.size>=3?1:v.size===2?0.72:0.3, v.size>=3?'동승자를 위한 공간을 고려할 수 있어요':'', v.size===1?'5인승이라도 작은 차체로 뒷좌석이 좁을 수 있어요':'');
-    if(p.budget>0){
+    if(p.budget>0 && Number.isFinite(v.price) && v.price>0){
       const baseTotal=purchase(v,{extraBudget:0,subsidy:0}).total;
       const ratio=baseTotal/p.budget;
       push(26,ratio<=1?1:ratio<=1.1?0.5:ratio<=1.25?0.15:0,baseTotal<=p.budget?'입력 예산 안에서 기본 구매비용을 고려할 수 있어요':'', '예산을 넘길 가능성이 높아요');
     }
+    if(p.budget>0 && (!Number.isFinite(v.price)||v.price<=0))flags.push('공식 가격이 확인되지 않아 총예산 충족 여부를 판단할 수 없습니다');
+    if(seats>0 && !Number.isFinite(v.seats))flags.push('인승 정보 미검증 · 반드시 제조사에서 확인');
     if(p.body&&p.body!=='any') push(13,v.body===p.body?1:0, '선호하는 '+v.body+' 형태예요','원하는 차체 형태가 아니에요');
     if(p.power&&p.power!=='any') push(20,v.power===p.power?1:0,'선호하는 동력방식에 부합해요','동력방식 선호와 달라요');
     if(p.origin&&p.origin!=='any') push(9,v.origin===p.origin?1:0,'선호하는 '+v.origin+' 브랜드예요','국산/수입 선호와 달라요');
@@ -65,7 +67,7 @@
   }
   function rank(vehicles, p={}) {
     return vehicles.map(v=>{const rating=evaluate(v,p);return rating?{...v,...rating}:null;})
-      .filter(Boolean).sort((a,b)=>b.score-a.score || a.price-b.price);
+      .filter(Boolean).sort((a,b)=>b.score-a.score || (a.price||Number.POSITIVE_INFINITY)-(b.price||Number.POSITIVE_INFINITY));
   }
   function sanitizeOptions(options,selection) {
     let picked=new Set(selection||[]);
@@ -81,4 +83,3 @@
   function money(value) {return (Math.round(Number(value||0)*10)/10).toLocaleString('ko-KR',{maximumFractionDigits:1})+'만 원';}
   return {purchase,evaluate,rank,sanitizeOptions,money};
 });
-

@@ -59,11 +59,10 @@ function fitVerified(v,p={},wanted=[],config={}){
 function recommend(vehicles,p={},coreRank){const wanted=Array.isArray(p.requiredFeatures)?p.requiredFeatures:[];const ranked=coreRank(vehicles,p);let confirmed=[],pending=[],overBudget=[],unavailable=[];
  for(const v of ranked){const exact=fitVerified(v,p,wanted);
   if(exact){if(exact.status==='unavailable')unavailable.push({...v,fit:exact});else if(!exact.withinBudget)overBudget.push({...v,fit:exact});else confirmed.push({...v,fit:exact});}
-  else {const rough=core.purchase(v,{fees:15}).total;if(!p.budget||rough<=Number(p.budget))pending.push({...v,fit:{status:'pending',vehicleId:v.id,reason:'공식 트림별 옵션/패키지와 실제 가격이 아직 매핑되지 않아 확정 불가',estimatedBaseTotal:rough}});}
+  else {const known=Number.isFinite(v.price)&&v.price>0;const rough=known?core.purchase(v,{fees:15}).total:null;if(!p.budget||!known||rough<=Number(p.budget))pending.push({...v,fit:{status:'pending',vehicleId:v.id,reason:known?'공식 트림별 옵션/패키지와 실제 가격이 아직 매핑되지 않아 확정 불가':'기준 가격과 트림 옵션이 모두 미확인이라 구매예산 적합 여부 판단 불가',estimatedBaseTotal:rough,pricePending:!known,seatsPending:!Number.isFinite(v.seats)}});}
  }
- confirmed.sort((a,b)=>b.score-a.score||a.fit.estimate.total-b.fit.estimate.total);pending.sort((a,b)=>b.score-a.score||a.price-b.price);overBudget.sort((a,b)=>a.fit.estimate.total-b.fit.estimate.total);
+ confirmed.sort((a,b)=>b.score-a.score||a.fit.estimate.total-b.fit.estimate.total);pending.sort((a,b)=>Number(Boolean(a.fit.pricePending))-Number(Boolean(b.fit.pricePending))||b.score-a.score||(a.price||Infinity)-(b.price||Infinity));overBudget.sort((a,b)=>a.fit.estimate.total-b.fit.estimate.total);
  return {confirmed,pending,overBudget,unavailable,ordered:[...confirmed,...pending]};
 }
 return {FEATURES,optionClosure,appliedFeatures,appliedSeats,fitVerified,recommend};
 });
-
