@@ -30,10 +30,10 @@ k5,기아,K5,GAS,2750,estimate,https://www.kia.com/kr/vehicles/k5/price,온라�
 k5-hev,기아,K5 하이브리드,HEV,3450,estimate,https://www.kia.com/kr/vehicles/k5/price,온라인 검색,Kia K5 2025
 k8,기아,K8,GAS,3650,estimate,https://www.kia.com/kr/vehicles/k8/price,온라인 검색,Kia K8 2025
 k8-hev,기아,K8 하이브리드,HEV,4300,estimate,https://www.kia.com/kr/vehicles/k8/price,온라인 검색,Kia K8 2025
-sportage,기아,스포티지,GAS,2800,estimate,https://www.kia.com/kr/vehicles/sportage/price,온라인 검색,Kia Sportage 2025
-sportage-hev,기아,스포티지 하이브리드,HEV,3400,estimate,https://www.kia.com/kr/vehicles/sportage/price,온라인 검색,Kia Sportage 2025
+sportage,기아,스포티지,GAS,2944,official,https://www.kia.com/kr/vehicles/sportage/price,온라인 검색,Kia Sportage 2025
+sportage-hev,기아,스포티지 하이브리드,HEV,3436,official,https://www.kia.com/kr/vehicles/sportage/price,온라인 검색,Kia Sportage 2025
 sorento,기아,쏘렌토 2.5T,GAS,3641,official,https://www.kia.com/kr/vehicles/sorento/price,https://commons.wikimedia.org/wiki/File:Kia_Sorento_MQ4_FL_1.6T_Hybrid_Gravity_Aurora_Black_Pearl_(1).jpg,Kia Sorento MQ4 facelift
-sorento-hev,기아,쏘렌토 하이브리드,HEV,4050,estimate,https://www.kia.com/kr/vehicles/sorento/price,https://commons.wikimedia.org/wiki/File:Kia_Sorento_MQ4_FL_1.6T_Hybrid_Gravity_Aurora_Black_Pearl_(1).jpg,Kia Sorento MQ4 facelift
+sorento-hev,기아,쏘렌토 하이브리드,HEV,3963,official,https://www.kia.com/kr/vehicles/sorento/price,https://commons.wikimedia.org/wiki/File:Kia_Sorento_MQ4_FL_1.6T_Hybrid_Gravity_Aurora_Black_Pearl_(1).jpg,Kia Sorento MQ4 facelift
 carnival,기아,카니발 3.5,GAS,3686,official,https://www.kia.com/kr/vehicles/carnival/price,https://commons.wikimedia.org/wiki/File:Kia_Carnival_3.5_KA4_PE_Snow_White_Pearl_(8).jpg,Kia Carnival KA4 facelift
 carnival-hev,기아,카니발 하이브리드,HEV,4141,estimated_from_official,https://www.kia.com/kr/vehicles/carnival/price,https://commons.wikimedia.org/wiki/File:Kia_Carnival_3.5_KA4_PE_Snow_White_Pearl_(8).jpg,Kia Carnival KA4 facelift
 EV3,기아,EV3,EV,3995,official,https://www.kia.com/kr/vehicles/ev3/price,https://commons.wikimedia.org/wiki/File:Kia_EV3_(2025)_(54810638023).jpg,Kia EV3 2025

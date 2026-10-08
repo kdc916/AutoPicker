@@ -1,4 +1,4 @@
-/* AutoPicker Pro v2.3.0: manufacturer price-table subset; KRW in units of 10,000.
+/* AutoPicker Pro v2.4.0: manufacturer price-table subset; KRW in units of 10,000.
    A supported vehicle/trim is not a promise of every unlisted option being available.
    Features are positively mapped from official standard equipment or listed packages only.
 */
@@ -25,6 +25,25 @@ const catalog={
  palisade:{reviewed:'2026-10-08',priceDate:'2026-10-01',url:'https://www.hyundai.com/kr/ko/e/vehicles/palisade/price',note:'신형 팰리세이드 가솔린 2.5T 9인승 기준 확인 트림만 수록. 다른 7인승/하이브리드와 가격 혼합 금지.',trims:[
   {id:'exclusive9',name:'2.5T 가솔린 익스클루시브 · 9인승',price:4478,seats:9,baseFeatures:f('cruise','lane','hda','park'),options:[o('awd','HTRAC · 험로주행모드',228,{features:['awd']}),o('roof','듀얼 와이드 선루프',85,{features:['sunroof']}),o('cam','빌트인 캠 2 Plus · 증강현실 내비',66),o('comfort','컴포트',133),o('parking','파킹 어시스트',113,{features:['surround']})]},
   {id:'hpick9',name:'2.5T 가솔린 H-Pick · 9인승',price:5040,seats:9,baseFeatures:f('cruise','lane','hda','park','surround','hud','trunk'),options:[o('awd','HTRAC · 험로주행모드',228,{features:['awd']}),o('roof','듀얼 와이드 선루프',85,{features:['sunroof']}),o('cam','빌트인 캠 2 Plus · 증강현실 내비',66),o('comfortplus','컴포트 플러스(9인승)',185)]}
+
+ ]},
+ sportage:{reviewed:'2026-10-08',priceDate:'2026-09-01',url:'https://www.kia.com/kr/vehicles/sportage/price',note:'2027 스포티지 1.6 가솔린 터보 공식 표기 3개 트림만 반영. 2.0 LPG/하이브리드 가격 제외.',trims:[
+  {id:'gas-prestige',name:'1.6T 가솔린 프레스티지 2WD · 5인승',price:2944,seats:5,baseFeatures:f('cruise','lane','hda','park'),options:[o('white','스노우 화이트 펄',8),o('awd','전자식 4WD',223,{features:['awd']}),o('style','스타일',69),o('comfort','컴포트Ⅰ',104),o('cam','빌트인 캠 2',45),o('roof','파노라마 선루프',119,{features:['sunroof']})]},
+  {id:'gas-noblesse',name:'1.6T 가솔린 노블레스 2WD · 5인승',price:3322,seats:5,baseFeatures:f('cruise','lane','hda','park','vent','trunk'),options:[o('white','스노우 화이트 펄',8),o('awd','전자식 4WD',223,{features:['awd']}),o('monitor','모니터링',114,{features:['surround']}),o('hud','헤드업 디스플레이',59,{features:['hud']}),o('audio','KRELL 프리미엄 사운드',59,{features:['audio']}),o('roof','파노라마 선루프',109,{features:['sunroof']}),o('cam','빌트인 캠 2',45)]},
+  {id:'gas-signature',name:'1.6T 가솔린 시그니처 2WD · 5인승',price:3557,seats:5,baseFeatures:f('cruise','lane','hda','park','vent','trunk','hud'),options:[o('white','스노우 화이트 펄',8),o('awd','전자식 4WD',223,{features:['awd']}),o('monitor','모니터링',114,{features:['surround']}),o('audio','KRELL 프리미엄 사운드',59,{features:['audio']}),o('roof','파노라마 선루프',109,{features:['sunroof']}),o('cam','빌트인 캠 2',45)]}
+ ]},
+ 'sportage-hev':{reviewed:'2026-10-08',priceDate:'2026-09-01',url:'https://www.kia.com/kr/vehicles/sportage/price',note:'2027 스포티지 1.6 터보 HEV 세제혜택 후 2WD 트림가. 4WD 유료 옵션은 해당 트림 표기만 반영.',trims:[
+  {id:'hev-prestige',name:'1.6 HEV 프레스티지 2WD · 5인승',price:3436,seats:5,baseFeatures:f('cruise','lane','hda','park'),options:[o('white','스노우 화이트 펄',8),o('awd','전자식 4WD',223,{features:['awd']}),o('style','스타일',69),o('comfort','컴포트Ⅰ',104),o('cam','빌트인 캠 2',45),o('roof','파노라마 선루프',119,{features:['sunroof']})]},
+  {id:'hev-noblesse',name:'1.6 HEV 노블레스 2WD · 5인승',price:3803,seats:5,baseFeatures:f('cruise','lane','hda','park','vent','trunk'),options:[o('white','스노우 화이트 펄',8),o('awd','전자식 4WD',223,{features:['awd']}),o('monitor','모니터링',114,{features:['surround']}),o('hud','헤드업 디스플레이',59,{features:['hud']}),o('audio','KRELL 프리미엄 사운드',59,{features:['audio']}),o('roof','파노라마 선루프',109,{features:['sunroof']}),o('cam','빌트인 캠 2',45)]},
+  {id:'hev-signature',name:'1.6 HEV 시그니처 2WD · 5인승',price:4038,seats:5,baseFeatures:f('cruise','lane','hda','park','vent','trunk','hud'),options:[o('white','스노우 화이트 펄',8),o('awd','전자식 4WD',223,{features:['awd']}),o('monitor','모니터링',114,{features:['surround']}),o('audio','KRELL 프리미엄 사운드',59,{features:['audio']}),o('roof','파노라마 선루프',109,{features:['sunroof']}),o('cam','빌트인 캠 2',45)]}
+ ]},
+ sorento:{reviewed:'2026-10-08',priceDate:'2026-10-01',url:'https://www.kia.com/kr/vehicles/sorento/price',note:'2027 쏘렌토 2.5 가솔린 터보 5인승 2WD 시작 트림 및 좌석·옵션 가격. 모니터링은 노블레스 이상 기본사양.',trims:[
+  {id:'gas-prestige',name:'2.5T 가솔린 프레스티지 2WD',price:3641,seats:5,baseFeatures:f('cruise','lane','hda','vent','trunk','park'),options:[seat(6,84),seat(7,69),o('white','스노우 화이트 펄',8),o('awd','전자식 4WD',232,{features:['awd']}),o('style','스타일',124),o('cluster','12.3인치 클러스터',59),o('drive','드라이브 와이즈',129,{requires:['cluster']}),o('hud','HUD + 빌트인 캠 2',119,{requires:['cluster'],features:['hud']}),o('roof','파노라마 선루프',109,{features:['sunroof']})]},
+  {id:'gas-noblesse',name:'2.5T 가솔린 노블레스 2WD',price:3966,seats:5,baseFeatures:f('cruise','lane','hda','vent','trunk','park','surround'),options:[seat(6,84),seat(7,69),o('white','스노우 화이트 펄',8),o('awd','전자식 4WD',232,{features:['awd']}),o('style','스타일',114),o('drive','드라이브 와이즈',129),o('hud','HUD + 빌트인 캠 2',119,{features:['hud']}),o('audio','KRELL 프리미엄 사운드',64,{features:['audio']}),o('roof','파노라마 선루프',109,{features:['sunroof']})]}
+ ]},
+ 'sorento-hev':{reviewed:'2026-10-08',priceDate:'2026-10-01',url:'https://www.kia.com/kr/vehicles/sorento/price',note:'2027 쏘렌토 1.6 터보 하이브리드 2WD 세제혜택 후 판매가. AWD는 별도 모델군으로 이 트림 선택에서 제외.',trims:[
+  {id:'hev-prestige',name:'1.6 HEV 프레스티지 2WD',price:3963,seats:5,baseFeatures:f('cruise','lane','hda','vent','trunk','park'),options:[seat(6,84),seat(7,69),o('white','스노우 화이트 펄',8),o('style','스타일',124),o('cluster','12.3인치 클러스터',59),o('drive','드라이브 와이즈',129,{requires:['cluster']}),o('hud','HUD + 빌트인 캠 2',119,{requires:['cluster'],features:['hud']}),o('roof','파노라마 선루프',109,{features:['sunroof']})]},
+  {id:'hev-noblesse',name:'1.6 HEV 노블레스 2WD',price:4299,seats:5,baseFeatures:f('cruise','lane','hda','vent','trunk','park','surround'),options:[seat(6,84),seat(7,69),o('white','스노우 화이트 펄',8),o('style','스타일',114),o('drive','드라이브 와이즈',129),o('hud','HUD + 빌트인 캠 2',119,{features:['hud']}),o('audio','KRELL 프리미엄 사운드',64,{features:['audio']}),o('roof','파노라마 선루프',109,{features:['sunroof']})]}
  ]}
 };
 function get(id){return catalog[id]||null;}

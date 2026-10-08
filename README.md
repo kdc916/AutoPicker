@@ -104,3 +104,10 @@
 검사: `node test_core.js`, `node test_feature_fit.js`, `python test_package_ui.py` (Chromium/Playwright 필요).
 
 주의: 표시된 총액은 부가세 제외 기준 취득세·기본 등록비용 가정이 들어간 비교용 예산입니다. 최종 계약견적은 제조사와 확인하세요.
+
+
+## v2.4.0 스포티지·쏘렌토 공식 트림 확대
+
+스포티지 GAS/HEV, 쏘렌토 GAS/HEV 4개 엔트리를 더해 총 8개 모델의 일부 트림(20개)을 제조사 공식 가격표 기준으로 매핑했습니다. 트림 기본 포함 사양/유료 패키지/선행 옵션/6·7인승을 분리하고 상세에서 필수 기능별 최소 비용 트림을 다시 계산합니다. 바로 관심 목록에 저장해도 선택 트림·옵션·좌석 구성이 유지됩니다.
+
+기아 원문 https://www.kia.com/kr/vehicles/sportage/price 및 https://www.kia.com/kr/vehicles/sorento/price . 검증하지 않은 나머지 69개 차량 옵션은 최종 견적 미확정으로 표시합니다. 가격·세금은 계약 전 재확인해야 합니다.
