@@ -1,0 +1,21 @@
+const assert=require('node:assert/strict');
+const fs=require('fs');
+const {purchase,rank,evaluate,sanitizeOptions,money}=require('./core.js');
+const cars=JSON.parse(fs.readFileSync('./vehicles.json','utf8'));
+let n=0;function check(name,fn){fn();console.log('PASS',++n,name)}
+check('unique vehicle IDs',()=>assert.equal(new Set(cars.map(c=>c.id)).size,cars.length));
+check('all official destinations HTTPS',()=>assert.ok(cars.every(c=>c.official.startsWith('https://'))));
+check('77 models and 14 brands',()=>{assert.equal(cars.length,77);assert.equal(new Set(cars.map(c=>c.brand)).size,14)});
+const seltos=cars.find(c=>c.id==='seltos');
+check('acquisition tax uses VAT-excluded base',()=>{const v=purchase({...seltos,body:'SUV',price:1100},{taxRate:7,fees:0});assert.equal(v.tax,70)});
+check('tax benefits capped by computed tax',()=>assert.equal(purchase(seltos,{taxCredit:99999}).tax,0));
+check('EV subsidy never applied to combustion vehicle',()=>assert.equal(purchase(seltos,{subsidy:10000}).subsidy,0));
+check('electric subsidy may not exceed car amount',()=>assert.equal(purchase(cars.find(c=>c.power==='EV'),{subsidy:99999}).total>=0,true));
+check('zero-interest financing',()=>assert.equal(purchase(seltos,{taxRate:0,fees:0,months:24,downPayment:0,apr:0}).monthly,seltos.price/24));
+check('fully paid down has no monthly debt',()=>assert.equal(purchase(seltos,{downPayment:100}).monthly,0));
+check('seats are a hard constraint',()=>assert.ok(rank(cars,{seats:9}).every(v=>v.seats>=9)));
+check('EV no charger preference lowers match',()=>{const ev=cars.find(c=>c.id==='EV3');const a=evaluate(ev,{power:'EV',charger:'none'}).score,b=evaluate(ev,{power:'EV',charger:'home'}).score;assert.ok(b>a)});
+check('budget warnings reduce score',()=>{const a=evaluate(seltos,{budget:10000}).score,b=evaluate(seltos,{budget:1800}).score;assert.ok(a>b)});
+check('option dependency prunes children',()=>assert.deepEqual(sanitizeOptions([{id:'child',requires:['parent']},{id:'parent'}],['child']),[]));
+check('money returns local KRW display',()=>assert.ok(money(1500).includes('1,500')));
+console.log(`ALL PASS ${n} checks`);

@@ -1,0 +1,78 @@
+﻿id,브랜드,모델,동력,시작가(만원),가격상태,제조사공식확인URL,사진출처,사진API검색어
+casper,현대,캐스퍼,GAS,1546,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Casper 2024
+venue,현대,베뉴,GAS,1994,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Venue 2025
+avante,현대,디 올 뉴 아반떼,GAS,2398,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Elantra 2026
+avante-hev,현대,디 올 뉴 아반떼 하이브리드,HEV,3042,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Elantra 2026
+sonata,현대,쏘나타 디 엣지,GAS,2866,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Sonata 2025
+sonata-hev,현대,쏘나타 디 엣지 하이브리드,HEV,3318,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Sonata 2025
+new-grandeur,현대,더 뉴 그랜저,GAS,4245,official,https://www.hyundai.com/kr/ko/e/all-vehicles,https://commons.wikimedia.org/wiki/File:00_Hyundai_Grandeur_(GN7).jpg,Hyundai Grandeur GN7
+new-grandeur-hev,현대,더 뉴 그랜저 하이브리드,HEV,4833,official,https://www.hyundai.com/kr/ko/e/all-vehicles,https://commons.wikimedia.org/wiki/File:00_Hyundai_Grandeur_(GN7).jpg,Hyundai Grandeur GN7
+kona,현대,코나,GAS,2393,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Kona SX2
+kona-hev,현대,코나 하이브리드,HEV,2938,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Kona SX2
+kona-ev,현대,코나 일렉트릭,EV,4152,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Kona Electric 2024
+sonata-n,현대,아반떼 N,GAS,3356,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Elantra N 2024
+Tucson,현대,투싼,GAS,2844,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Tucson 2025
+Tucson-hev,현대,투싼 하이브리드,HEV,3318,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Tucson 2025
+santafe,현대,싼타페,GAS,3657,official,https://www.hyundai.com/kr/ko/e/all-vehicles,https://commons.wikimedia.org/wiki/File:Hyundai_Santa_Fe_2.5T_Calligraphy_MX5_Creamy_White_Pearl_(5).jpg,Hyundai Santa Fe MX5
+santafe-hev,현대,싼타페 하이브리드,HEV,4022,official,https://www.hyundai.com/kr/ko/e/all-vehicles,https://commons.wikimedia.org/wiki/File:Hyundai_Santa_Fe_2.5T_Calligraphy_MX5_Creamy_White_Pearl_(5).jpg,Hyundai Santa Fe MX5
+palisade,현대,디 올 뉴 팰리세이드,GAS,4478,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Palisade LX3 2026
+palisade-hev,현대,디 올 뉴 팰리세이드 하이브리드,HEV,5077,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Palisade LX3 2026
+ioniq5,현대,아이오닉 5,EV,4735,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Ioniq 5 2025
+ioniq6,현대,더 뉴 아이오닉 6,EV,4856,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Ioniq 6 facelift 2026
+ioniq9,현대,아이오닉 9,EV,6759,official,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Ioniq 9 2026
+staria-hev,현대,더 뉴 스타리아 하이브리드,HEV,4350,estimate,https://www.hyundai.com/kr/ko/e/all-vehicles,온라인 검색,Hyundai Staria 2025
+morning,기아,모닝,GAS,1400,estimate,https://www.kia.com/kr/vehicles/morning/price,온라인 검색,Kia Picanto 2024
+ray,기아,레이,GAS,1490,estimate,https://www.kia.com/kr/vehicles/ray/price,온라인 검색,Kia Ray 2024
+ray-ev,기아,레이 EV (4인승),EV,2852,official,https://www.kia.com/kr/vehicles/ray-ev/price,https://commons.wikimedia.org/wiki/File:Kia_Ray_EV_TAM_EV_PE_Smoke_Blue_(3).jpg,Kia Ray EV 2024
+seltos,기아,디 올 뉴 셀토스 1.6T,GAS,2512,official,https://www.kia.com/kr/vehicles/seltos/price,온라인 검색,Kia Seltos 2026
+seltos-hev,기아,디 올 뉴 셀토스 하이브리드,HEV,3020,estimate,https://www.kia.com/kr/vehicles/seltos/price,온라인 검색,Kia Seltos 2026
+k5,기아,K5,GAS,2750,estimate,https://www.kia.com/kr/vehicles/k5/price,온라인 검색,Kia K5 2025
+k5-hev,기아,K5 하이브리드,HEV,3450,estimate,https://www.kia.com/kr/vehicles/k5/price,온라인 검색,Kia K5 2025
+k8,기아,K8,GAS,3650,estimate,https://www.kia.com/kr/vehicles/k8/price,온라인 검색,Kia K8 2025
+k8-hev,기아,K8 하이브리드,HEV,4300,estimate,https://www.kia.com/kr/vehicles/k8/price,온라인 검색,Kia K8 2025
+sportage,기아,스포티지,GAS,2800,estimate,https://www.kia.com/kr/vehicles/sportage/price,온라인 검색,Kia Sportage 2025
+sportage-hev,기아,스포티지 하이브리드,HEV,3400,estimate,https://www.kia.com/kr/vehicles/sportage/price,온라인 검색,Kia Sportage 2025
+sorento,기아,쏘렌토 2.5T,GAS,3641,official,https://www.kia.com/kr/vehicles/sorento/price,https://commons.wikimedia.org/wiki/File:Kia_Sorento_MQ4_FL_1.6T_Hybrid_Gravity_Aurora_Black_Pearl_(1).jpg,Kia Sorento MQ4 facelift
+sorento-hev,기아,쏘렌토 하이브리드,HEV,4050,estimate,https://www.kia.com/kr/vehicles/sorento/price,https://commons.wikimedia.org/wiki/File:Kia_Sorento_MQ4_FL_1.6T_Hybrid_Gravity_Aurora_Black_Pearl_(1).jpg,Kia Sorento MQ4 facelift
+carnival,기아,카니발 3.5,GAS,3686,official,https://www.kia.com/kr/vehicles/carnival/price,https://commons.wikimedia.org/wiki/File:Kia_Carnival_3.5_KA4_PE_Snow_White_Pearl_(8).jpg,Kia Carnival KA4 facelift
+carnival-hev,기아,카니발 하이브리드,HEV,4141,estimated_from_official,https://www.kia.com/kr/vehicles/carnival/price,https://commons.wikimedia.org/wiki/File:Kia_Carnival_3.5_KA4_PE_Snow_White_Pearl_(8).jpg,Kia Carnival KA4 facelift
+EV3,기아,EV3,EV,3995,official,https://www.kia.com/kr/vehicles/ev3/price,https://commons.wikimedia.org/wiki/File:Kia_EV3_(2025)_(54810638023).jpg,Kia EV3 2025
+EV4,기아,EV4,EV,4042,official,https://www.kia.com/kr/vehicles/ev4/price,https://commons.wikimedia.org/wiki/File:Kia_EV4_Sedan_CT1_2025-04-11_(01).jpg,Kia EV4 2025
+EV5,기아,EV5,EV,4155,official,https://www.kia.com/kr/vehicles/ev5/price,https://commons.wikimedia.org/wiki/File:Kia_EV5_01_China_2025-03-25.jpg,Kia EV5 2025
+EV6,기아,EV6,EV,5260,estimate,https://www.kia.com/kr/vehicles/ev6/price,https://commons.wikimedia.org/wiki/File:KIA_EV6_(Fully_Charged_2022).jpg,Kia EV6 2025
+EV9,기아,EV9,EV,6900,estimate,https://www.kia.com/kr/vehicles/ev9/price,온라인 검색,Kia EV9 2025
+G70,제네시스,G70,GAS,4500,official,https://www.genesis.com/kr/ko/models/g70,온라인 검색,Genesis G70 2025
+G80,제네시스,G80,GAS,6063,official,https://www.genesis.com/kr/ko/models/g80,https://commons.wikimedia.org/wiki/File:Genesis_G80_RG3_PE_Savile_Silver_(1).jpg,Genesis G80 2025
+G90,제네시스,G90,GAS,9748,official,https://www.genesis.com/kr/ko/models/g90,온라인 검색,Genesis G90 2025
+GV70,제네시스,GV70,GAS,5473,official,https://www.genesis.com/kr/ko/models/gv70,온라인 검색,Genesis GV70 2025
+GV80,제네시스,GV80,GAS,6985,official,https://www.genesis.com/kr/ko/models/gv80,https://commons.wikimedia.org/wiki/File:Genesis_GV80_IAA_2021_1X7A0165.jpg,Genesis GV80 2025
+GV60,제네시스,GV60,EV,6828,official,https://www.genesis.com/kr/ko/models/gv60,온라인 검색,Genesis GV60 2025
+model3,테슬라,모델 3,EV,5300,estimate,https://www.tesla.com/ko_kr/model3,온라인 검색,Tesla Model 3 Highland 2024
+modely,테슬라,모델 Y,EV,5300,estimate,https://www.tesla.com/ko_kr/modely,https://commons.wikimedia.org/wiki/File:2025_Tesla_Model_Y_Juniper_Long_Range_AWD.jpg,Tesla Model Y Juniper 2025
+rav4,토요타,RAV4 하이브리드,HEV,4500,estimate,https://www.toyota.co.kr,온라인 검색,Toyota RAV4 2025
+camry,토요타,캠리 하이브리드,HEV,4800,estimate,https://www.toyota.co.kr,온라인 검색,Toyota Camry XV80 2025
+prius,토요타,프리우스,HEV,4000,estimate,https://www.toyota.co.kr,온라인 검색,Toyota Prius 2024
+es300h,렉서스,ES 300h,HEV,6500,estimate,https://www.lexus.co.kr,온라인 검색,Lexus ES 300h 2025
+nx350h,렉서스,NX 350h,HEV,6900,estimate,https://www.lexus.co.kr,온라인 검색,Lexus NX 350h 2025
+crv,혼다,CR-V 하이브리드,HEV,5600,estimate,https://www.hondakorea.co.kr,온라인 검색,Honda CR-V 2024
+accord,혼다,어코드 하이브리드,HEV,5300,estimate,https://www.hondakorea.co.kr,온라인 검색,Honda Accord Hybrid 2025
+320i,BMW,320i,GAS,5800,estimate,https://www.bmw.co.kr,온라인 검색,BMW 320i G20 2025
+520i,BMW,520i,GAS,7100,estimate,https://www.bmw.co.kr,온라인 검색,BMW 520i G60 2025
+x1,BMW,X1,GAS,6100,estimate,https://www.bmw.co.kr,온라인 검색,BMW X1 U11 2024
+x3,BMW,X3,GAS,7200,estimate,https://www.bmw.co.kr,온라인 검색,BMW X3 G45 2025
+x5,BMW,X5,GAS,12500,estimate,https://www.bmw.co.kr,온라인 검색,BMW X5 G05 2024
+c200,벤츠,C 200,GAS,6500,estimate,https://www.mercedes-benz.co.kr,온라인 검색,Mercedes-Benz C-Class W206 2024
+e200,벤츠,E 200,GAS,7400,estimate,https://www.mercedes-benz.co.kr,온라인 검색,Mercedes-Benz E-Class W214 2025
+glc,벤츠,GLC 300,GAS,8700,estimate,https://www.mercedes-benz.co.kr,온라인 검색,Mercedes-Benz GLC X254 2024
+gle,벤츠,GLE 450,GAS,12700,estimate,https://www.mercedes-benz.co.kr,온라인 검색,Mercedes-Benz GLE 2025
+q5,아우디,Q5,GAS,7000,estimate,https://www.audi.co.kr,온라인 검색,Audi Q5 2025
+a6,아우디,A6,GAS,6900,estimate,https://www.audi.co.kr,온라인 검색,Audi A6 2025
+xc40,볼보,XC40,GAS,4900,estimate,https://www.volvocars.com/kr,온라인 검색,Volvo XC40 2025
+xc60,볼보,XC60,GAS,6500,estimate,https://www.volvocars.com/kr,온라인 검색,Volvo XC60 2025
+xc90,볼보,XC90,GAS,8800,estimate,https://www.volvocars.com/kr,온라인 검색,Volvo XC90 2025
+id4,폭스바겐,ID.4,EV,5400,estimate,https://www.volkswagen.co.kr,온라인 검색,Volkswagen ID.4 2024
+tiguan,폭스바겐,티구안,GAS,5000,estimate,https://www.volkswagen.co.kr,온라인 검색,Volkswagen Tiguan 2025
+atto3,BYD,아토 3,EV,3150,estimate,https://www.bydauto.kr,https://commons.wikimedia.org/wiki/File:2024_BYD_Atto_3_1.jpg,BYD Atto 3 2024
+seal,BYD,씰,EV,4000,estimate,https://www.bydauto.kr,온라인 검색,BYD Seal 2024
+sealion7,BYD,씨라이언 7,EV,4800,estimate,https://www.bydauto.kr,온라인 검색,BYD Sealion 7 2025
+macan,포르쉐,마칸 일렉트릭,EV,11000,estimate,https://www.porsche.com/korea/ko,온라인 검색,Porsche Macan electric 2025
